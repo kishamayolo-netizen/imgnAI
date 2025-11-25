@@ -322,20 +322,9 @@
 
             // Show loading status
             statusDiv.className = 'status loading';
-            statusDiv.innerHTML = '<span class="spinner"></span>Authenticating and generating images...';
+            statusDiv.innerHTML = '<span class="spinner"></span>Generating images...';
 
             try {
-                // First authenticate
-                try {
-                    const authResponse = await fetch('/auth', { method: 'POST' });
-                    if (!authResponse.ok) {
-                        throw new Error('Authentication failed');
-                    }
-                } catch (authError) {
-                    console.error('Auth error:', authError);
-                    // Continue anyway - may already be authenticated
-                }
-
                 const response = await fetch('/generate', {
                     method: 'POST',
                     headers: {

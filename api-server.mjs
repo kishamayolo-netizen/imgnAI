@@ -484,7 +484,7 @@ app.post('/generate', async (req, res) => {
   }
 });
 
-const server = app.listen(PORT, '0.0.0.0', () => {
+const server = app.listen(PORT, '0.0.0.0', async () => {
   console.log(`\n╔══════════════════════════════════════════════════════════╗`);
   console.log(`║     IMGNAI API Server running on port ${PORT}              ║`);
   console.log(`╚══════════════════════════════════════════════════════════╝\n`);
@@ -492,12 +492,26 @@ const server = app.listen(PORT, '0.0.0.0', () => {
   console.log(`\n🔗 Endpoints:`);
   console.log(`   GET  /health         - Check server status`);
   console.log(`   GET  /models         - List available models, qualities, ratios`);
-  console.log(`   POST /auth           - Authenticate with imgnai.com`);
   console.log(`   POST /generate       - Generate images\n`);
   console.log(`📝 Example request:`);
   console.log(`   curl -X POST http://localhost:${PORT}/generate \\`);
   console.log(`     -H "Content-Type: application/json" \\`);
   console.log(`     -d '{"prompt":"a cat wizard","modelId":12,"qualityId":2,"ratioId":3}'\n`);
+  
+  // Authenticate once on startup
+  console.log('🔐 Authenticating on startup...');
+  try {
+    const authPromise = setupAuthenticatedPage();
+    const timeoutPromise = new Promise((_, reject) => 
+      setTimeout(() => reject(new Error('Authentication timeout after 180 seconds')), 180000)
+    );
+    
+    authContext = await Promise.race([authPromise, timeoutPromise]);
+    console.log('✓ Authentication successful - session will be reused for all requests\n');
+  } catch (e) {
+    console.error('⚠ Startup authentication failed:', e.message);
+    console.error('⚠ You can still authenticate manually by calling /auth\n');
+  }
 });
 
 process.on('SIGTERM', async () => {
