@@ -151,7 +151,7 @@
             border-radius: 8px;
             overflow: hidden;
             background: #f0f0f0;
-            aspect-ratio: 1;
+            aspect-ratio: var(--aspect-ratio, 1);
         }
 
         .image-item img {
@@ -298,6 +298,15 @@
         const timingDiv = document.getElementById('timing');
         const generateBtn = document.getElementById('generateBtn');
 
+        // Aspect ratio mappings
+        const aspectRatios = {
+            1: 2.5,      // 5:2
+            2: 1.777,    // 16:9
+            3: 1,        // 1:1
+            4: 0.8,      // 4:5
+            5: 0.571     // 4:7
+        };
+
         // Authenticate on page load
         window.addEventListener('load', async () => {
             try {
@@ -347,10 +356,14 @@
                     statusDiv.className = 'status success';
                     statusDiv.textContent = '✓ ' + data.message;
 
+                    // Get the aspect ratio for the selected ratio ID
+                    const aspectRatio = aspectRatios[ratioId] || 1;
+
                     // Display images
                     data.urls.forEach(url => {
                         const div = document.createElement('div');
                         div.className = 'image-item';
+                        div.style.setProperty('--aspect-ratio', aspectRatio);
                         const proxyUrl = url.startsWith('/') ? url : url; // Use proxy URL from backend
                         div.innerHTML = `
                             <img src="${proxyUrl}" alt="Generated image" onerror="this.style.display='none'">
