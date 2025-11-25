@@ -1,6 +1,6 @@
 # IMGNAI Auto-Generator
 
-An automated image generation tool that interfaces with imgnai.com to generate AI images using browser automation.
+An automated image generation tool that interfaces with imgnai.com to generate AI images using browser automation. Now with a REST API server!
 
 ## Features
 
@@ -11,34 +11,86 @@ An automated image generation tool that interfaces with imgnai.com to generate A
 - 📐 Multiple aspect ratios (5:2, 16:9, 1:1, 4:5, 4:7)
 - 📦 Batch image generation (4 images per request)
 - 💾 Automatic image downloading
+- 🌐 REST API Server for frontend integration
 - 🐛 Debug screenshot capture for troubleshooting
 
 ## How to Use
 
-### Interactive Mode (Main Script)
+### API Server Mode (Recommended)
+
+Run the API server to accept requests from your frontend:
+```bash
+node api-server.mjs
+```
+
+The server starts on port 3000 with these endpoints:
+
+**Check Server Status**
+```bash
+GET /health
+```
+
+**Get Available Models & Settings**
+```bash
+GET /models
+```
+Returns all models (IDs 1-20), quality levels, and aspect ratios.
+
+**Authenticate with imgnai.com**
+```bash
+POST /auth
+```
+Call this first to initialize authentication.
+
+**Generate Images**
+```bash
+POST /generate
+Content-Type: application/json
+
+{
+  "prompt": "a magical cat wizard",
+  "modelId": 12,
+  "qualityId": 2,
+  "ratioId": 3
+}
+```
+
+**Example cURL Request:**
+```bash
+# Get models
+curl http://localhost:3000/models
+
+# Authenticate
+curl -X POST http://localhost:3000/auth
+
+# Generate images
+curl -X POST http://localhost:3000/generate \
+  -H "Content-Type: application/json" \
+  -d '{"prompt":"a magical cat","modelId":12,"qualityId":2,"ratioId":3}'
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "urls": ["https://wasmall.imgnai.com/image1.jpg", ...],
+  "timings": {...},
+  "message": "Generated 4 images"
+}
+```
+
+### Interactive Mode (CLI)
 
 Run the interactive generator:
 ```bash
 node reverse.mjs
 ```
 
-The tool will:
-1. Launch a headless browser
-2. Authenticate with imgnai.com
-3. Prompt you for:
-   - Image prompt/description
-   - Model selection (1-20)
-   - Quality level (1-2)
-   - Aspect ratio (1-5)
-4. Generate 4 images per request
-5. Download images to the `outputs/` directory
-6. Allow multiple generations in the same session
+Prompts you for image settings and generates 4 images per request.
 
-Type `exit` when prompted to quit the application.
+### Batch Mode
 
-### Batch Mode (All Models)
-
-The `test.mjs` script includes functionality to generate images across all models:
+Generate images across all models:
 ```bash
 node test.mjs
 ```
@@ -47,8 +99,10 @@ node test.mjs
 
 ```
 .
-├── reverse.mjs          # Main interactive script
+├── api-server.mjs       # REST API server for frontend integration
+├── reverse.mjs          # Interactive CLI script
 ├── test.mjs             # Batch processing script
+├── server.mjs           # Info server
 ├── package.json         # Dependencies
 ├── outputs/             # Generated images (downloaded)
 ├── modelImage/          # Organized by model with manifests
@@ -58,73 +112,55 @@ node test.mjs
 
 ## Dependencies
 
+- **express** - REST API framework
 - **puppeteer** - Browser automation core
-- **puppeteer-real-browser** - Enhanced Puppeteer with turnstile/Cloudflare support
+- **puppeteer-real-browser** - Enhanced Puppeteer with Cloudflare support
 - **playwright** - Additional browser automation
 - **date-fns** - Date formatting utilities
 
 ## Configuration
 
-Authentication credentials are configured in the script:
+Authentication credentials (hardcoded in scripts):
 - Username: `imgnai69`
 - Password: `imgnai@1trick.net`
 
-The tool maintains a persistent browser profile in `./imgnai-profile` to preserve sessions across runs.
+Browser profile stored in `./imgnai-profile` persists sessions.
 
-## API Mappings
+## API Reference
 
-### Models (20 available)
+### Model IDs (1-20)
 Gen, Illustrious, Volt, Neo, Fur, Ani, Muse, HyperCGI, Nai, Noob, Pony, Flux, RealX, Supra, Evo, Toon, Wassie, RealX Classic, HyperX Classic, FurXl Classic
 
-### Quality Levels
-1. **Fast** - Quick generation (30 steps)
-2. **High Quality** - Better results (75 steps)
+### Quality IDs
+- 1: Fast (30 steps, ~10-20 seconds)
+- 2: High Quality (75 steps, ~30-60 seconds)
 
-### Aspect Ratios
-1. 5:2 (1024x409)
-2. 16:9 (896x512)
-3. 1:1 Square (512x512)
-4. 4:5 (512x640)
-5. 4:7 (512x896)
+### Aspect Ratio IDs
+- 1: 5:2 (1024x409)
+- 2: 16:9 (896x512)
+- 3: 1:1 Square (512x512)
+- 4: 4:5 (512x640)
+- 5: 4:7 (512x896)
 
 ## System Requirements
 
-This application requires:
 - Node.js 20+
 - Chromium browser
-- X11 libraries for headless browser operation
+- X11 libraries for headless operation
 
-On Replit, these are automatically configured via the `.replit` configuration.
+All are pre-configured on Replit.
 
 ## Troubleshooting
 
-### Browser Launch Issues
-If you encounter browser launch errors, ensure:
-- Chromium is installed
-- CHROME_PATH environment variable is set
-- X11 libraries are available
+**Browser Issues:** Check `bugScreenshot/` folder for debug screenshots at each auth step
 
-### Login/Authentication Issues
-- Check `bugScreenshot/` directory for debug screenshots
-- The tool captures screenshots at each step of authentication
-- Session data is stored in `imgnai-profile/` directory
+**Login Failures:** Session data in `imgnai-profile/` may be stale - delete it and re-authenticate
 
-### Generation Timeouts
-- Fast quality typically takes 10-20 seconds
-- High quality can take 30-60 seconds
-- The tool polls every 2 seconds for up to 6 minutes
-
-## Output
-
-Generated images are saved to:
-- **outputs/** - Raw timestamped images
-- **modelImage/<ModelName>/** - Organized by model with manifest files
-
-Each model folder contains a `manifest.json` with metadata about generated images.
+**Generation Timeouts:** High quality takes longer. Check `/health` endpoint to verify server is running
 
 ## Notes
 
-- The browser runs in headless mode for Replit compatibility
-- Browser profile data persists between runs to maintain authentication
-- Debug screenshots are automatically captured during operation
-- The tool handles Cloudflare challenges automatically
+- Browser runs headless for Replit compatibility
+- Sessions persist between runs
+- Debug screenshots captured automatically for troubleshooting
+- Cloudflare challenges handled automatically
