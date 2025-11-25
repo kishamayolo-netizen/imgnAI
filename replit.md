@@ -67,9 +67,10 @@ The script includes mappings for:
   - Configured .gitignore for Node.js project
   - Created project documentation (README.md, replit.md)
   - Verified all dependencies are installed
-  - Installed system dependencies: Chromium, X11 libraries, xvfb
+  - Installed system dependencies: Chromium, X11 libraries, xvfb-run
   - Configured environment variables: CHROME_PATH, PUPPETEER_EXECUTABLE_PATH
-  - Set up workflow for running the CLI tool
+  - Fixed navigation timeout issue: Changed from `networkidle0` to `domcontentloaded`
+  - Created info server (server.mjs) to keep Replit active with usage instructions
   - Application is fully functional in Replit environment
 
 ## User Preferences

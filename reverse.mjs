@@ -255,9 +255,9 @@ async function setupAuthenticatedPage() {
   }
   await page.click('button[type="submit"]');
   await saveDebugScreenshot(page, '05_after_fill_and_submit.png');
-  await page.waitForNavigation({ waitUntil: 'networkidle0', timeout: 30000 }).catch(() => {});
+  await page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 30000 }).catch(() => {});
   try {
-    await page.goto(GENERATE_URL, { waitUntil: 'networkidle0' });
+    await page.goto(GENERATE_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
   } catch (e) {
     console.error('Goto generate failed:', e.message);
     await saveDebugScreenshot(page, '06_generate_page_error.png');
