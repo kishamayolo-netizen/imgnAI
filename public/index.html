@@ -307,18 +307,6 @@
             5: 0.571     // 4:7
         };
 
-        // Authenticate on page load
-        window.addEventListener('load', async () => {
-            try {
-                const response = await fetch('/auth', { method: 'POST' });
-                if (response.ok) {
-                    console.log('Authenticated with backend');
-                }
-            } catch (error) {
-                console.error('Authentication failed:', error);
-            }
-        });
-
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
 
@@ -334,9 +322,20 @@
 
             // Show loading status
             statusDiv.className = 'status loading';
-            statusDiv.innerHTML = '<span class="spinner"></span>Generating images...';
+            statusDiv.innerHTML = '<span class="spinner"></span>Authenticating and generating images...';
 
             try {
+                // First authenticate
+                try {
+                    const authResponse = await fetch('/auth', { method: 'POST' });
+                    if (!authResponse.ok) {
+                        throw new Error('Authentication failed');
+                    }
+                } catch (authError) {
+                    console.error('Auth error:', authError);
+                    // Continue anyway - may already be authenticated
+                }
+
                 const response = await fetch('/generate', {
                     method: 'POST',
                     headers: {
