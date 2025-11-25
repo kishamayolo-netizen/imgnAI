@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en" class="h-full bg-black">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/assets/images/fav-icon@150x150.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon@180x180.png" sizes="180x180" />
+    <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon@120x120.png" sizes="120x120" />
+    <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon@167x167.png" sizes="167x167" />
+    <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon@152x152.png" sizes="152x152" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <title>imgnAI</title>
+
+    <meta name="description" content="Explore vibrant, AI-generated art with imgnAI. Creativity reimagined." />
+    <meta property="og:title" content="imgnAI" />
+    <meta property="og:description" content="Explore vibrant, AI-generated art with imgnAI. Creativity reimagined." />
+    <meta property="og:url" content="https://app.imgnai.comimages/019a866a-9bed-723b-bc27-8d7fe0563a0a.jpeg" />
+    <meta property="og:image" content="https://app.imgnai.com/preview.png" />
+    <meta property="og:image:width" content="{{imageWidth}}" />
+    <meta property="og:image:height" content="{{imageHeight}}" />
+    <meta property="og:image:alt" content="imgnAI" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="imgnAI" />
+    <meta name="twitter:description" content="Explore vibrant, AI-generated art with imgnAI. Creativity reimagined." />
+    <meta name="twitter:image" content="https://app.imgnai.com/preview.png" />
+    <meta name="twitter:image:width" content="{{imageWidth}}" />
+    <meta name="twitter:image:height" content="{{imageHeight}}" />
+    <meta name="twitter:image:alt" content="imgnAI" />
+
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&family=Silkscreen:wght@400;700&display=swap");
+    </style>
+
+    <script defer src="https://static.kinguin.net/checkout/sdk/sdk-1.2.0.min.js"></script>
+  <script type="module" crossorigin src="/assets/index-1IEdrjoa.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-Q687z5rd.css">
+</head>
+
+<body class="custom-scrollbar h-full">
+    <!-- Meta Pixel Code -->
+    <script>
+        !(function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = "2.0";
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s);
+        })(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js");
+        fbq("init", "1391545952210187");
+        fbq("track", "PageView");
+    </script>
+    <noscript><img height="1" width="1" style="display: none"
+            src="https://www.facebook.com/tr?id=1391545952210187&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+    <img src="//tsyndicate.com/api/v2/cpa/205739/pixel.gif?goalid=0" class="hidden" />
+
+    <!-- Reddit Pixel -->
+    <script>
+        !(function (w, d) {
+            if (!w.rdt) {
+                var p = (w.rdt = function () {
+                    p.sendEvent ? p.sendEvent.apply(p, arguments) : p.callQueue.push(arguments);
+                });
+                p.callQueue = [];
+                var t = d.createElement("script");
+                (t.src = "https://www.redditstatic.com/ads/pixel.js"), (t.async = !0);
+                var s = d.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(t, s);
+            }
+        })(window, document);
+        rdt("init", "a2_fzz7ruohhwwo");
+        rdt("track", "PageVisit");
+    </script>
+    <!-- DO NOT MODIFY UNLESS TO REPLACE A USER IDENTIFIER -->
+    <!-- End Reddit Pixel -->
+
+    <script>
+        window.clickmagick_cmc = {
+            uid: "205583",
+            hid: "491490662",
+            cmc_project: "app.imgnai.com",
+            vid_info: "on"
+        };
+    </script>
+    <script src="//track.imgnai.com/cfaa0c7f.js"></script>
+
+    <div id="root" class="h-full"></div>
+</body>
+
+</html>

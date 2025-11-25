@@ -1,0 +1,874 @@
+[
+  {
+    "file": "Wassie_11-20-25_Fast_512x512_1.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678223059,
+      "sessionStart": 1763678223059,
+      "sessionEnd": 1763678223469,
+      "submitStart": 1763678224547,
+      "submitEnd": 1763678224993,
+      "pollInitialDelay": 10000,
+      "job_019aa36a-02f0-7422-a6a0-79e716f5e18e_completed": 69725,
+      "job_019aa36a-030d-7976-9875-39c4c0ce59a9_completed": 8434,
+      "job_019aa36a-0343-70e7-84df-423cd85b36b5_completed": 8082,
+      "job_019aa36a-0375-7143-a6c9-c64cbd334192_completed": 8674,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-3d1e-7f9e-a016-a16c5bcf9a7b.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_1.jpeg",
+          "ms": 506
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-5e1d-7f06-be44-e73078c8c8b0.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_2.jpeg",
+          "ms": 1022
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-7da0-7990-a100-854acdf4f7b9.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_3.jpeg",
+          "ms": 1023
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-9f71-77b0-b8d9-d5446a44acb2.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_4.jpeg",
+          "ms": 1025
+        }
+      ],
+      "runEnd": 1763678334355,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa36b-3d1e-7f9e-a016-a16c5bcf9a7b.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-5e1d-7f06-be44-e73078c8c8b0.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-7da0-7990-a100-854acdf4f7b9.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-9f71-77b0-b8d9-d5446a44acb2.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "Wassie_11-20-25_Fast_512x512_2.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678223059,
+      "sessionStart": 1763678223059,
+      "sessionEnd": 1763678223469,
+      "submitStart": 1763678224547,
+      "submitEnd": 1763678224993,
+      "pollInitialDelay": 10000,
+      "job_019aa36a-02f0-7422-a6a0-79e716f5e18e_completed": 69725,
+      "job_019aa36a-030d-7976-9875-39c4c0ce59a9_completed": 8434,
+      "job_019aa36a-0343-70e7-84df-423cd85b36b5_completed": 8082,
+      "job_019aa36a-0375-7143-a6c9-c64cbd334192_completed": 8674,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-3d1e-7f9e-a016-a16c5bcf9a7b.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_1.jpeg",
+          "ms": 506
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-5e1d-7f06-be44-e73078c8c8b0.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_2.jpeg",
+          "ms": 1022
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-7da0-7990-a100-854acdf4f7b9.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_3.jpeg",
+          "ms": 1023
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-9f71-77b0-b8d9-d5446a44acb2.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_4.jpeg",
+          "ms": 1025
+        }
+      ],
+      "runEnd": 1763678334355,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa36b-3d1e-7f9e-a016-a16c5bcf9a7b.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-5e1d-7f06-be44-e73078c8c8b0.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-7da0-7990-a100-854acdf4f7b9.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-9f71-77b0-b8d9-d5446a44acb2.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "Wassie_11-20-25_Fast_512x512_3.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678223059,
+      "sessionStart": 1763678223059,
+      "sessionEnd": 1763678223469,
+      "submitStart": 1763678224547,
+      "submitEnd": 1763678224993,
+      "pollInitialDelay": 10000,
+      "job_019aa36a-02f0-7422-a6a0-79e716f5e18e_completed": 69725,
+      "job_019aa36a-030d-7976-9875-39c4c0ce59a9_completed": 8434,
+      "job_019aa36a-0343-70e7-84df-423cd85b36b5_completed": 8082,
+      "job_019aa36a-0375-7143-a6c9-c64cbd334192_completed": 8674,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-3d1e-7f9e-a016-a16c5bcf9a7b.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_1.jpeg",
+          "ms": 506
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-5e1d-7f06-be44-e73078c8c8b0.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_2.jpeg",
+          "ms": 1022
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-7da0-7990-a100-854acdf4f7b9.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_3.jpeg",
+          "ms": 1023
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-9f71-77b0-b8d9-d5446a44acb2.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_4.jpeg",
+          "ms": 1025
+        }
+      ],
+      "runEnd": 1763678334355,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa36b-3d1e-7f9e-a016-a16c5bcf9a7b.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-5e1d-7f06-be44-e73078c8c8b0.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-7da0-7990-a100-854acdf4f7b9.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-9f71-77b0-b8d9-d5446a44acb2.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "Wassie_11-20-25_Fast_512x512_4.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678223059,
+      "sessionStart": 1763678223059,
+      "sessionEnd": 1763678223469,
+      "submitStart": 1763678224547,
+      "submitEnd": 1763678224993,
+      "pollInitialDelay": 10000,
+      "job_019aa36a-02f0-7422-a6a0-79e716f5e18e_completed": 69725,
+      "job_019aa36a-030d-7976-9875-39c4c0ce59a9_completed": 8434,
+      "job_019aa36a-0343-70e7-84df-423cd85b36b5_completed": 8082,
+      "job_019aa36a-0375-7143-a6c9-c64cbd334192_completed": 8674,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-3d1e-7f9e-a016-a16c5bcf9a7b.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_1.jpeg",
+          "ms": 506
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-5e1d-7f06-be44-e73078c8c8b0.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_2.jpeg",
+          "ms": 1022
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-7da0-7990-a100-854acdf4f7b9.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_3.jpeg",
+          "ms": 1023
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36b-9f71-77b0-b8d9-d5446a44acb2.jpeg",
+          "file": "outputs/2025-11-20T22-37-03-059Z_4.jpeg",
+          "ms": 1025
+        }
+      ],
+      "runEnd": 1763678334355,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa36b-3d1e-7f9e-a016-a16c5bcf9a7b.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-5e1d-7f06-be44-e73078c8c8b0.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-7da0-7990-a100-854acdf4f7b9.jpeg",
+        "https://wasmall.imgnai.com/019aa36b-9f71-77b0-b8d9-d5446a44acb2.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_1.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683450228,
+      "sessionStart": 1763683450228,
+      "sessionEnd": 1763683450478,
+      "submitStart": 1763683450819,
+      "submitEnd": 1763683451565,
+      "pollInitialDelay": 20000,
+      "job_019aa3b9-c0e4-730e-b102-c2fe390e0da9_completed": 20200,
+      "job_019aa3b9-c110-749e-bc23-befecaf4d072_completed": 22364,
+      "job_019aa3b9-c145-7d45-b6fd-189f53a812f0_completed": 22174,
+      "job_019aa3b9-c172-7433-8753-3c8c3791fb5e_completed": 22746,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ba-5f50-7cf6-af56-6e97166993e3.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_1.jpeg",
+          "ms": 1659
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ba-b725-7afd-9d04-a7425e45165c.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_2.jpeg",
+          "ms": 1337
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bb-0d82-7449-b592-8cb1bf527d30.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_3.jpeg",
+          "ms": 1086
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bb-6685-7d63-9970-3feeaa41669b.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_4.jpeg",
+          "ms": 1134
+        }
+      ],
+      "runEnd": 1763683564608,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ba-5f50-7cf6-af56-6e97166993e3.jpeg",
+        "https://wasmall.imgnai.com/019aa3ba-b725-7afd-9d04-a7425e45165c.jpeg",
+        "https://wasmall.imgnai.com/019aa3bb-0d82-7449-b592-8cb1bf527d30.jpeg",
+        "https://wasmall.imgnai.com/019aa3bb-6685-7d63-9970-3feeaa41669b.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_2.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683450228,
+      "sessionStart": 1763683450228,
+      "sessionEnd": 1763683450478,
+      "submitStart": 1763683450819,
+      "submitEnd": 1763683451565,
+      "pollInitialDelay": 20000,
+      "job_019aa3b9-c0e4-730e-b102-c2fe390e0da9_completed": 20200,
+      "job_019aa3b9-c110-749e-bc23-befecaf4d072_completed": 22364,
+      "job_019aa3b9-c145-7d45-b6fd-189f53a812f0_completed": 22174,
+      "job_019aa3b9-c172-7433-8753-3c8c3791fb5e_completed": 22746,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ba-5f50-7cf6-af56-6e97166993e3.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_1.jpeg",
+          "ms": 1659
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ba-b725-7afd-9d04-a7425e45165c.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_2.jpeg",
+          "ms": 1337
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bb-0d82-7449-b592-8cb1bf527d30.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_3.jpeg",
+          "ms": 1086
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bb-6685-7d63-9970-3feeaa41669b.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_4.jpeg",
+          "ms": 1134
+        }
+      ],
+      "runEnd": 1763683564608,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ba-5f50-7cf6-af56-6e97166993e3.jpeg",
+        "https://wasmall.imgnai.com/019aa3ba-b725-7afd-9d04-a7425e45165c.jpeg",
+        "https://wasmall.imgnai.com/019aa3bb-0d82-7449-b592-8cb1bf527d30.jpeg",
+        "https://wasmall.imgnai.com/019aa3bb-6685-7d63-9970-3feeaa41669b.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_3.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683450228,
+      "sessionStart": 1763683450228,
+      "sessionEnd": 1763683450478,
+      "submitStart": 1763683450819,
+      "submitEnd": 1763683451565,
+      "pollInitialDelay": 20000,
+      "job_019aa3b9-c0e4-730e-b102-c2fe390e0da9_completed": 20200,
+      "job_019aa3b9-c110-749e-bc23-befecaf4d072_completed": 22364,
+      "job_019aa3b9-c145-7d45-b6fd-189f53a812f0_completed": 22174,
+      "job_019aa3b9-c172-7433-8753-3c8c3791fb5e_completed": 22746,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ba-5f50-7cf6-af56-6e97166993e3.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_1.jpeg",
+          "ms": 1659
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ba-b725-7afd-9d04-a7425e45165c.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_2.jpeg",
+          "ms": 1337
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bb-0d82-7449-b592-8cb1bf527d30.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_3.jpeg",
+          "ms": 1086
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bb-6685-7d63-9970-3feeaa41669b.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_4.jpeg",
+          "ms": 1134
+        }
+      ],
+      "runEnd": 1763683564608,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ba-5f50-7cf6-af56-6e97166993e3.jpeg",
+        "https://wasmall.imgnai.com/019aa3ba-b725-7afd-9d04-a7425e45165c.jpeg",
+        "https://wasmall.imgnai.com/019aa3bb-0d82-7449-b592-8cb1bf527d30.jpeg",
+        "https://wasmall.imgnai.com/019aa3bb-6685-7d63-9970-3feeaa41669b.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_4.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683450228,
+      "sessionStart": 1763683450228,
+      "sessionEnd": 1763683450478,
+      "submitStart": 1763683450819,
+      "submitEnd": 1763683451565,
+      "pollInitialDelay": 20000,
+      "job_019aa3b9-c0e4-730e-b102-c2fe390e0da9_completed": 20200,
+      "job_019aa3b9-c110-749e-bc23-befecaf4d072_completed": 22364,
+      "job_019aa3b9-c145-7d45-b6fd-189f53a812f0_completed": 22174,
+      "job_019aa3b9-c172-7433-8753-3c8c3791fb5e_completed": 22746,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ba-5f50-7cf6-af56-6e97166993e3.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_1.jpeg",
+          "ms": 1659
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ba-b725-7afd-9d04-a7425e45165c.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_2.jpeg",
+          "ms": 1337
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bb-0d82-7449-b592-8cb1bf527d30.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_3.jpeg",
+          "ms": 1086
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bb-6685-7d63-9970-3feeaa41669b.jpeg",
+          "file": "outputs/2025-11-21T00-04-10-228Z_4.jpeg",
+          "ms": 1134
+        }
+      ],
+      "runEnd": 1763683564608,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ba-5f50-7cf6-af56-6e97166993e3.jpeg",
+        "https://wasmall.imgnai.com/019aa3ba-b725-7afd-9d04-a7425e45165c.jpeg",
+        "https://wasmall.imgnai.com/019aa3bb-0d82-7449-b592-8cb1bf527d30.jpeg",
+        "https://wasmall.imgnai.com/019aa3bb-6685-7d63-9970-3feeaa41669b.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_1.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763687271160,
+      "sessionStart": 1763687271160,
+      "sessionEnd": 1763687271482,
+      "submitStart": 1763687271948,
+      "submitEnd": 1763687272400,
+      "pollInitialDelay": 20000,
+      "job_019aa3f4-0f06-760b-a4cd-5b169b67faba_completed": 46362,
+      "job_019aa3f4-0f2a-7e8e-b950-03e1b5dd661d_completed": 24198,
+      "job_019aa3f4-0f5f-7a12-b7b0-06bb290959b1_completed": 23857,
+      "job_019aa3f4-0f8c-73f9-a1fc-df895dfbf015_completed": 23522,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-12ce-7857-8aaf-6ba7012d314b.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_1.jpeg",
+          "ms": 559
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-718b-7a76-a14b-d12c2bace9b9.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_2.jpeg",
+          "ms": 1311
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-ce7f-7048-b032-7931c9356e03.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_3.jpeg",
+          "ms": 1251
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f6-2a3e-792a-800a-7bca39222668.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_4.jpeg",
+          "ms": 1229
+        }
+      ],
+      "runEnd": 1763687415047,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3f5-12ce-7857-8aaf-6ba7012d314b.jpeg",
+        "https://wasmall.imgnai.com/019aa3f5-718b-7a76-a14b-d12c2bace9b9.jpeg",
+        "https://wasmall.imgnai.com/019aa3f5-ce7f-7048-b032-7931c9356e03.jpeg",
+        "https://wasmall.imgnai.com/019aa3f6-2a3e-792a-800a-7bca39222668.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1,
+    "nsfw": true
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_2.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763687271160,
+      "sessionStart": 1763687271160,
+      "sessionEnd": 1763687271482,
+      "submitStart": 1763687271948,
+      "submitEnd": 1763687272400,
+      "pollInitialDelay": 20000,
+      "job_019aa3f4-0f06-760b-a4cd-5b169b67faba_completed": 46362,
+      "job_019aa3f4-0f2a-7e8e-b950-03e1b5dd661d_completed": 24198,
+      "job_019aa3f4-0f5f-7a12-b7b0-06bb290959b1_completed": 23857,
+      "job_019aa3f4-0f8c-73f9-a1fc-df895dfbf015_completed": 23522,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-12ce-7857-8aaf-6ba7012d314b.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_1.jpeg",
+          "ms": 559
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-718b-7a76-a14b-d12c2bace9b9.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_2.jpeg",
+          "ms": 1311
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-ce7f-7048-b032-7931c9356e03.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_3.jpeg",
+          "ms": 1251
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f6-2a3e-792a-800a-7bca39222668.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_4.jpeg",
+          "ms": 1229
+        }
+      ],
+      "runEnd": 1763687415047,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3f5-12ce-7857-8aaf-6ba7012d314b.jpeg",
+        "https://wasmall.imgnai.com/019aa3f5-718b-7a76-a14b-d12c2bace9b9.jpeg",
+        "https://wasmall.imgnai.com/019aa3f5-ce7f-7048-b032-7931c9356e03.jpeg",
+        "https://wasmall.imgnai.com/019aa3f6-2a3e-792a-800a-7bca39222668.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2,
+    "nsfw": true
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_3.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763687271160,
+      "sessionStart": 1763687271160,
+      "sessionEnd": 1763687271482,
+      "submitStart": 1763687271948,
+      "submitEnd": 1763687272400,
+      "pollInitialDelay": 20000,
+      "job_019aa3f4-0f06-760b-a4cd-5b169b67faba_completed": 46362,
+      "job_019aa3f4-0f2a-7e8e-b950-03e1b5dd661d_completed": 24198,
+      "job_019aa3f4-0f5f-7a12-b7b0-06bb290959b1_completed": 23857,
+      "job_019aa3f4-0f8c-73f9-a1fc-df895dfbf015_completed": 23522,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-12ce-7857-8aaf-6ba7012d314b.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_1.jpeg",
+          "ms": 559
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-718b-7a76-a14b-d12c2bace9b9.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_2.jpeg",
+          "ms": 1311
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-ce7f-7048-b032-7931c9356e03.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_3.jpeg",
+          "ms": 1251
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f6-2a3e-792a-800a-7bca39222668.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_4.jpeg",
+          "ms": 1229
+        }
+      ],
+      "runEnd": 1763687415047,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3f5-12ce-7857-8aaf-6ba7012d314b.jpeg",
+        "https://wasmall.imgnai.com/019aa3f5-718b-7a76-a14b-d12c2bace9b9.jpeg",
+        "https://wasmall.imgnai.com/019aa3f5-ce7f-7048-b032-7931c9356e03.jpeg",
+        "https://wasmall.imgnai.com/019aa3f6-2a3e-792a-800a-7bca39222668.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3,
+    "nsfw": true
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_4.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763687271160,
+      "sessionStart": 1763687271160,
+      "sessionEnd": 1763687271482,
+      "submitStart": 1763687271948,
+      "submitEnd": 1763687272400,
+      "pollInitialDelay": 20000,
+      "job_019aa3f4-0f06-760b-a4cd-5b169b67faba_completed": 46362,
+      "job_019aa3f4-0f2a-7e8e-b950-03e1b5dd661d_completed": 24198,
+      "job_019aa3f4-0f5f-7a12-b7b0-06bb290959b1_completed": 23857,
+      "job_019aa3f4-0f8c-73f9-a1fc-df895dfbf015_completed": 23522,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-12ce-7857-8aaf-6ba7012d314b.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_1.jpeg",
+          "ms": 559
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-718b-7a76-a14b-d12c2bace9b9.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_2.jpeg",
+          "ms": 1311
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f5-ce7f-7048-b032-7931c9356e03.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_3.jpeg",
+          "ms": 1251
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3f6-2a3e-792a-800a-7bca39222668.jpeg",
+          "file": "outputs/2025-11-21T01-07-51-160Z_4.jpeg",
+          "ms": 1229
+        }
+      ],
+      "runEnd": 1763687415047,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3f5-12ce-7857-8aaf-6ba7012d314b.jpeg",
+        "https://wasmall.imgnai.com/019aa3f5-718b-7a76-a14b-d12c2bace9b9.jpeg",
+        "https://wasmall.imgnai.com/019aa3f5-ce7f-7048-b032-7931c9356e03.jpeg",
+        "https://wasmall.imgnai.com/019aa3f6-2a3e-792a-800a-7bca39222668.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4,
+    "nsfw": true
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_1_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763690152590,
+      "sessionStart": 1763690152591,
+      "sessionEnd": 1763690152932,
+      "submitStart": 1763690153328,
+      "submitEnd": 1763690153812,
+      "pollInitialDelay": 20000,
+      "job_019aa420-06a4-78f7-9557-b3af45c9c539_completed": 7718,
+      "job_019aa420-06ed-7162-9a92-3dbde1e62c3b_completed": 22017,
+      "job_019aa420-0708-7acb-9329-2f5bd1aa749b_completed": 24883,
+      "job_019aa420-073d-70ce-ab43-4961e4cba531_completed": 22098,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa420-7371-79e8-916d-9b36ebf34634.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_1.jpeg",
+          "ms": 1277
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa420-c9ae-744f-a018-5400afaa4340.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_2.jpeg",
+          "ms": 1418
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa421-2ad0-77b0-a544-af00c2b04719.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_3.jpeg",
+          "ms": 1198
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa421-80ec-7c18-b87d-c0a731e7ac12.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_4.jpeg",
+          "ms": 1245
+        }
+      ],
+      "runEnd": 1763690256046,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa420-7371-79e8-916d-9b36ebf34634.jpeg",
+        "https://wasmall.imgnai.com/019aa420-c9ae-744f-a018-5400afaa4340.jpeg",
+        "https://wasmall.imgnai.com/019aa421-2ad0-77b0-a544-af00c2b04719.jpeg",
+        "https://wasmall.imgnai.com/019aa421-80ec-7c18-b87d-c0a731e7ac12.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1,
+    "storage": "normal"
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_2_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763690152590,
+      "sessionStart": 1763690152591,
+      "sessionEnd": 1763690152932,
+      "submitStart": 1763690153328,
+      "submitEnd": 1763690153812,
+      "pollInitialDelay": 20000,
+      "job_019aa420-06a4-78f7-9557-b3af45c9c539_completed": 7718,
+      "job_019aa420-06ed-7162-9a92-3dbde1e62c3b_completed": 22017,
+      "job_019aa420-0708-7acb-9329-2f5bd1aa749b_completed": 24883,
+      "job_019aa420-073d-70ce-ab43-4961e4cba531_completed": 22098,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa420-7371-79e8-916d-9b36ebf34634.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_1.jpeg",
+          "ms": 1277
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa420-c9ae-744f-a018-5400afaa4340.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_2.jpeg",
+          "ms": 1418
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa421-2ad0-77b0-a544-af00c2b04719.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_3.jpeg",
+          "ms": 1198
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa421-80ec-7c18-b87d-c0a731e7ac12.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_4.jpeg",
+          "ms": 1245
+        }
+      ],
+      "runEnd": 1763690256046,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa420-7371-79e8-916d-9b36ebf34634.jpeg",
+        "https://wasmall.imgnai.com/019aa420-c9ae-744f-a018-5400afaa4340.jpeg",
+        "https://wasmall.imgnai.com/019aa421-2ad0-77b0-a544-af00c2b04719.jpeg",
+        "https://wasmall.imgnai.com/019aa421-80ec-7c18-b87d-c0a731e7ac12.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2,
+    "storage": "normal"
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_3_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763690152590,
+      "sessionStart": 1763690152591,
+      "sessionEnd": 1763690152932,
+      "submitStart": 1763690153328,
+      "submitEnd": 1763690153812,
+      "pollInitialDelay": 20000,
+      "job_019aa420-06a4-78f7-9557-b3af45c9c539_completed": 7718,
+      "job_019aa420-06ed-7162-9a92-3dbde1e62c3b_completed": 22017,
+      "job_019aa420-0708-7acb-9329-2f5bd1aa749b_completed": 24883,
+      "job_019aa420-073d-70ce-ab43-4961e4cba531_completed": 22098,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa420-7371-79e8-916d-9b36ebf34634.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_1.jpeg",
+          "ms": 1277
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa420-c9ae-744f-a018-5400afaa4340.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_2.jpeg",
+          "ms": 1418
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa421-2ad0-77b0-a544-af00c2b04719.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_3.jpeg",
+          "ms": 1198
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa421-80ec-7c18-b87d-c0a731e7ac12.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_4.jpeg",
+          "ms": 1245
+        }
+      ],
+      "runEnd": 1763690256046,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa420-7371-79e8-916d-9b36ebf34634.jpeg",
+        "https://wasmall.imgnai.com/019aa420-c9ae-744f-a018-5400afaa4340.jpeg",
+        "https://wasmall.imgnai.com/019aa421-2ad0-77b0-a544-af00c2b04719.jpeg",
+        "https://wasmall.imgnai.com/019aa421-80ec-7c18-b87d-c0a731e7ac12.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3,
+    "storage": "normal"
+  },
+  {
+    "file": "Wassie_11-20-25_HighQuality_512x512_4_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Wassie",
+      "id": "Wassie"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763690152590,
+      "sessionStart": 1763690152591,
+      "sessionEnd": 1763690152932,
+      "submitStart": 1763690153328,
+      "submitEnd": 1763690153812,
+      "pollInitialDelay": 20000,
+      "job_019aa420-06a4-78f7-9557-b3af45c9c539_completed": 7718,
+      "job_019aa420-06ed-7162-9a92-3dbde1e62c3b_completed": 22017,
+      "job_019aa420-0708-7acb-9329-2f5bd1aa749b_completed": 24883,
+      "job_019aa420-073d-70ce-ab43-4961e4cba531_completed": 22098,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa420-7371-79e8-916d-9b36ebf34634.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_1.jpeg",
+          "ms": 1277
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa420-c9ae-744f-a018-5400afaa4340.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_2.jpeg",
+          "ms": 1418
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa421-2ad0-77b0-a544-af00c2b04719.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_3.jpeg",
+          "ms": 1198
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa421-80ec-7c18-b87d-c0a731e7ac12.jpeg",
+          "file": "outputs/2025-11-21T01-55-52-590Z_4.jpeg",
+          "ms": 1245
+        }
+      ],
+      "runEnd": 1763690256046,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa420-7371-79e8-916d-9b36ebf34634.jpeg",
+        "https://wasmall.imgnai.com/019aa420-c9ae-744f-a018-5400afaa4340.jpeg",
+        "https://wasmall.imgnai.com/019aa421-2ad0-77b0-a544-af00c2b04719.jpeg",
+        "https://wasmall.imgnai.com/019aa421-80ec-7c18-b87d-c0a731e7ac12.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4,
+    "storage": "normal"
+  }
+]

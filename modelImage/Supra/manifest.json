@@ -1,0 +1,874 @@
+[
+  {
+    "file": "Supra_11-20-25_Fast_512x512_1.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678085241,
+      "sessionStart": 1763678085241,
+      "sessionEnd": 1763678085541,
+      "submitStart": 1763678085886,
+      "submitEnd": 1763678086364,
+      "pollInitialDelay": 10000,
+      "job_019aa367-e537-74bf-907e-65338f75cded_completed": 8240,
+      "job_019aa367-e56b-7021-bf81-f9c3d7d132f7_completed": 10935,
+      "job_019aa367-e598-79f0-88bd-7770118184f8_completed": 3517,
+      "job_019aa367-e5cc-7fde-a4d2-5db94fbf0af5_completed": 3283,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-2d23-7836-a35c-d8af5b5ab429.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_1.jpeg",
+          "ms": 1763
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-57b7-74d6-b75a-4e286f4ff30b.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_2.jpeg",
+          "ms": 1342
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-5d36-7208-848f-dbcc522ea018.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_3.jpeg",
+          "ms": 1110
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-4d44-7fc6-a339-b4fbf55f30f4.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_4.jpeg",
+          "ms": 1246
+        }
+      ],
+      "runEnd": 1763678128117,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa368-2d23-7836-a35c-d8af5b5ab429.jpeg",
+        "https://wasmall.imgnai.com/019aa368-57b7-74d6-b75a-4e286f4ff30b.jpeg",
+        "https://wasmall.imgnai.com/019aa368-5d36-7208-848f-dbcc522ea018.jpeg",
+        "https://wasmall.imgnai.com/019aa368-4d44-7fc6-a339-b4fbf55f30f4.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "Supra_11-20-25_Fast_512x512_2.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678085241,
+      "sessionStart": 1763678085241,
+      "sessionEnd": 1763678085541,
+      "submitStart": 1763678085886,
+      "submitEnd": 1763678086364,
+      "pollInitialDelay": 10000,
+      "job_019aa367-e537-74bf-907e-65338f75cded_completed": 8240,
+      "job_019aa367-e56b-7021-bf81-f9c3d7d132f7_completed": 10935,
+      "job_019aa367-e598-79f0-88bd-7770118184f8_completed": 3517,
+      "job_019aa367-e5cc-7fde-a4d2-5db94fbf0af5_completed": 3283,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-2d23-7836-a35c-d8af5b5ab429.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_1.jpeg",
+          "ms": 1763
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-57b7-74d6-b75a-4e286f4ff30b.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_2.jpeg",
+          "ms": 1342
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-5d36-7208-848f-dbcc522ea018.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_3.jpeg",
+          "ms": 1110
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-4d44-7fc6-a339-b4fbf55f30f4.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_4.jpeg",
+          "ms": 1246
+        }
+      ],
+      "runEnd": 1763678128117,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa368-2d23-7836-a35c-d8af5b5ab429.jpeg",
+        "https://wasmall.imgnai.com/019aa368-57b7-74d6-b75a-4e286f4ff30b.jpeg",
+        "https://wasmall.imgnai.com/019aa368-5d36-7208-848f-dbcc522ea018.jpeg",
+        "https://wasmall.imgnai.com/019aa368-4d44-7fc6-a339-b4fbf55f30f4.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "Supra_11-20-25_Fast_512x512_3.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678085241,
+      "sessionStart": 1763678085241,
+      "sessionEnd": 1763678085541,
+      "submitStart": 1763678085886,
+      "submitEnd": 1763678086364,
+      "pollInitialDelay": 10000,
+      "job_019aa367-e537-74bf-907e-65338f75cded_completed": 8240,
+      "job_019aa367-e56b-7021-bf81-f9c3d7d132f7_completed": 10935,
+      "job_019aa367-e598-79f0-88bd-7770118184f8_completed": 3517,
+      "job_019aa367-e5cc-7fde-a4d2-5db94fbf0af5_completed": 3283,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-2d23-7836-a35c-d8af5b5ab429.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_1.jpeg",
+          "ms": 1763
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-57b7-74d6-b75a-4e286f4ff30b.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_2.jpeg",
+          "ms": 1342
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-5d36-7208-848f-dbcc522ea018.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_3.jpeg",
+          "ms": 1110
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-4d44-7fc6-a339-b4fbf55f30f4.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_4.jpeg",
+          "ms": 1246
+        }
+      ],
+      "runEnd": 1763678128117,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa368-2d23-7836-a35c-d8af5b5ab429.jpeg",
+        "https://wasmall.imgnai.com/019aa368-57b7-74d6-b75a-4e286f4ff30b.jpeg",
+        "https://wasmall.imgnai.com/019aa368-5d36-7208-848f-dbcc522ea018.jpeg",
+        "https://wasmall.imgnai.com/019aa368-4d44-7fc6-a339-b4fbf55f30f4.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "Supra_11-20-25_Fast_512x512_4.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678085241,
+      "sessionStart": 1763678085241,
+      "sessionEnd": 1763678085541,
+      "submitStart": 1763678085886,
+      "submitEnd": 1763678086364,
+      "pollInitialDelay": 10000,
+      "job_019aa367-e537-74bf-907e-65338f75cded_completed": 8240,
+      "job_019aa367-e56b-7021-bf81-f9c3d7d132f7_completed": 10935,
+      "job_019aa367-e598-79f0-88bd-7770118184f8_completed": 3517,
+      "job_019aa367-e5cc-7fde-a4d2-5db94fbf0af5_completed": 3283,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-2d23-7836-a35c-d8af5b5ab429.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_1.jpeg",
+          "ms": 1763
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-57b7-74d6-b75a-4e286f4ff30b.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_2.jpeg",
+          "ms": 1342
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-5d36-7208-848f-dbcc522ea018.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_3.jpeg",
+          "ms": 1110
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa368-4d44-7fc6-a339-b4fbf55f30f4.jpeg",
+          "file": "outputs/2025-11-20T22-34-45-241Z_4.jpeg",
+          "ms": 1246
+        }
+      ],
+      "runEnd": 1763678128117,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa368-2d23-7836-a35c-d8af5b5ab429.jpeg",
+        "https://wasmall.imgnai.com/019aa368-57b7-74d6-b75a-4e286f4ff30b.jpeg",
+        "https://wasmall.imgnai.com/019aa368-5d36-7208-848f-dbcc522ea018.jpeg",
+        "https://wasmall.imgnai.com/019aa368-4d44-7fc6-a339-b4fbf55f30f4.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_1.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683172595,
+      "sessionStart": 1763683172595,
+      "sessionEnd": 1763683172844,
+      "submitStart": 1763683173236,
+      "submitEnd": 1763683173667,
+      "pollInitialDelay": 20000,
+      "job_019aa3b5-8488-7dd8-bfac-af4e94f84ebb_completed": 7732,
+      "job_019aa3b5-84b2-7858-8bcd-4d67d456e51c_completed": 3220,
+      "job_019aa3b5-84e4-770b-97de-fe5bccd686d9_completed": 50146,
+      "job_019aa3b5-8512-7e39-a1fa-e71083fcad32_completed": 3233,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b5-f0d3-7219-aa6f-66b917364039.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_1.jpeg",
+          "ms": 1454
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b5-f677-7246-9ae0-4edc48bbf22c.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_2.jpeg",
+          "ms": 1463
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b6-099f-74c9-8855-dbe82cab2edd.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_3.jpeg",
+          "ms": 1327
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b6-0b45-752d-995a-962d345db0f9.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_4.jpeg",
+          "ms": 1239
+        }
+      ],
+      "runEnd": 1763683263798,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3b5-f0d3-7219-aa6f-66b917364039.jpeg",
+        "https://wasmall.imgnai.com/019aa3b5-f677-7246-9ae0-4edc48bbf22c.jpeg",
+        "https://wasmall.imgnai.com/019aa3b6-099f-74c9-8855-dbe82cab2edd.jpeg",
+        "https://wasmall.imgnai.com/019aa3b6-0b45-752d-995a-962d345db0f9.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_2.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683172595,
+      "sessionStart": 1763683172595,
+      "sessionEnd": 1763683172844,
+      "submitStart": 1763683173236,
+      "submitEnd": 1763683173667,
+      "pollInitialDelay": 20000,
+      "job_019aa3b5-8488-7dd8-bfac-af4e94f84ebb_completed": 7732,
+      "job_019aa3b5-84b2-7858-8bcd-4d67d456e51c_completed": 3220,
+      "job_019aa3b5-84e4-770b-97de-fe5bccd686d9_completed": 50146,
+      "job_019aa3b5-8512-7e39-a1fa-e71083fcad32_completed": 3233,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b5-f0d3-7219-aa6f-66b917364039.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_1.jpeg",
+          "ms": 1454
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b5-f677-7246-9ae0-4edc48bbf22c.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_2.jpeg",
+          "ms": 1463
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b6-099f-74c9-8855-dbe82cab2edd.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_3.jpeg",
+          "ms": 1327
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b6-0b45-752d-995a-962d345db0f9.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_4.jpeg",
+          "ms": 1239
+        }
+      ],
+      "runEnd": 1763683263798,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3b5-f0d3-7219-aa6f-66b917364039.jpeg",
+        "https://wasmall.imgnai.com/019aa3b5-f677-7246-9ae0-4edc48bbf22c.jpeg",
+        "https://wasmall.imgnai.com/019aa3b6-099f-74c9-8855-dbe82cab2edd.jpeg",
+        "https://wasmall.imgnai.com/019aa3b6-0b45-752d-995a-962d345db0f9.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_3.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683172595,
+      "sessionStart": 1763683172595,
+      "sessionEnd": 1763683172844,
+      "submitStart": 1763683173236,
+      "submitEnd": 1763683173667,
+      "pollInitialDelay": 20000,
+      "job_019aa3b5-8488-7dd8-bfac-af4e94f84ebb_completed": 7732,
+      "job_019aa3b5-84b2-7858-8bcd-4d67d456e51c_completed": 3220,
+      "job_019aa3b5-84e4-770b-97de-fe5bccd686d9_completed": 50146,
+      "job_019aa3b5-8512-7e39-a1fa-e71083fcad32_completed": 3233,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b5-f0d3-7219-aa6f-66b917364039.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_1.jpeg",
+          "ms": 1454
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b5-f677-7246-9ae0-4edc48bbf22c.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_2.jpeg",
+          "ms": 1463
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b6-099f-74c9-8855-dbe82cab2edd.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_3.jpeg",
+          "ms": 1327
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b6-0b45-752d-995a-962d345db0f9.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_4.jpeg",
+          "ms": 1239
+        }
+      ],
+      "runEnd": 1763683263798,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3b5-f0d3-7219-aa6f-66b917364039.jpeg",
+        "https://wasmall.imgnai.com/019aa3b5-f677-7246-9ae0-4edc48bbf22c.jpeg",
+        "https://wasmall.imgnai.com/019aa3b6-099f-74c9-8855-dbe82cab2edd.jpeg",
+        "https://wasmall.imgnai.com/019aa3b6-0b45-752d-995a-962d345db0f9.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_4.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683172595,
+      "sessionStart": 1763683172595,
+      "sessionEnd": 1763683172844,
+      "submitStart": 1763683173236,
+      "submitEnd": 1763683173667,
+      "pollInitialDelay": 20000,
+      "job_019aa3b5-8488-7dd8-bfac-af4e94f84ebb_completed": 7732,
+      "job_019aa3b5-84b2-7858-8bcd-4d67d456e51c_completed": 3220,
+      "job_019aa3b5-84e4-770b-97de-fe5bccd686d9_completed": 50146,
+      "job_019aa3b5-8512-7e39-a1fa-e71083fcad32_completed": 3233,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b5-f0d3-7219-aa6f-66b917364039.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_1.jpeg",
+          "ms": 1454
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b5-f677-7246-9ae0-4edc48bbf22c.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_2.jpeg",
+          "ms": 1463
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b6-099f-74c9-8855-dbe82cab2edd.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_3.jpeg",
+          "ms": 1327
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3b6-0b45-752d-995a-962d345db0f9.jpeg",
+          "file": "outputs/2025-11-20T23-59-32-595Z_4.jpeg",
+          "ms": 1239
+        }
+      ],
+      "runEnd": 1763683263798,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3b5-f0d3-7219-aa6f-66b917364039.jpeg",
+        "https://wasmall.imgnai.com/019aa3b5-f677-7246-9ae0-4edc48bbf22c.jpeg",
+        "https://wasmall.imgnai.com/019aa3b6-099f-74c9-8855-dbe82cab2edd.jpeg",
+        "https://wasmall.imgnai.com/019aa3b6-0b45-752d-995a-962d345db0f9.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_1.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763686824360,
+      "sessionStart": 1763686824360,
+      "sessionEnd": 1763686824689,
+      "submitStart": 1763686825083,
+      "submitEnd": 1763686825609,
+      "pollInitialDelay": 20000,
+      "job_019aa3ed-3da1-77c4-9923-fd6cc432db91_completed": 14807,
+      "job_019aa3ed-3df6-7809-8541-c8f49dd09f0b_completed": 3218,
+      "job_019aa3ed-3e2a-7e66-9b65-830323e39b88_completed": 3173,
+      "job_019aa3ed-3e66-7c7e-b1c5-068e4b7e1d41_completed": 3195,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-c5e1-77ab-97d5-1a0e78d5f938.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_1.jpeg",
+          "ms": 1475
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-bed2-7220-a50e-38ca2f970771.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_2.jpeg",
+          "ms": 1409
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-b707-79d2-8846-e9006e89ee96.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_3.jpeg",
+          "ms": 1312
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-c987-74a2-867c-803d57bb3e61.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_4.jpeg",
+          "ms": 1273
+        }
+      ],
+      "runEnd": 1763686875824,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ed-c5e1-77ab-97d5-1a0e78d5f938.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-bed2-7220-a50e-38ca2f970771.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-b707-79d2-8846-e9006e89ee96.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-c987-74a2-867c-803d57bb3e61.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1,
+    "nsfw": true
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_2.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763686824360,
+      "sessionStart": 1763686824360,
+      "sessionEnd": 1763686824689,
+      "submitStart": 1763686825083,
+      "submitEnd": 1763686825609,
+      "pollInitialDelay": 20000,
+      "job_019aa3ed-3da1-77c4-9923-fd6cc432db91_completed": 14807,
+      "job_019aa3ed-3df6-7809-8541-c8f49dd09f0b_completed": 3218,
+      "job_019aa3ed-3e2a-7e66-9b65-830323e39b88_completed": 3173,
+      "job_019aa3ed-3e66-7c7e-b1c5-068e4b7e1d41_completed": 3195,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-c5e1-77ab-97d5-1a0e78d5f938.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_1.jpeg",
+          "ms": 1475
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-bed2-7220-a50e-38ca2f970771.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_2.jpeg",
+          "ms": 1409
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-b707-79d2-8846-e9006e89ee96.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_3.jpeg",
+          "ms": 1312
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-c987-74a2-867c-803d57bb3e61.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_4.jpeg",
+          "ms": 1273
+        }
+      ],
+      "runEnd": 1763686875824,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ed-c5e1-77ab-97d5-1a0e78d5f938.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-bed2-7220-a50e-38ca2f970771.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-b707-79d2-8846-e9006e89ee96.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-c987-74a2-867c-803d57bb3e61.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2,
+    "nsfw": true
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_3.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763686824360,
+      "sessionStart": 1763686824360,
+      "sessionEnd": 1763686824689,
+      "submitStart": 1763686825083,
+      "submitEnd": 1763686825609,
+      "pollInitialDelay": 20000,
+      "job_019aa3ed-3da1-77c4-9923-fd6cc432db91_completed": 14807,
+      "job_019aa3ed-3df6-7809-8541-c8f49dd09f0b_completed": 3218,
+      "job_019aa3ed-3e2a-7e66-9b65-830323e39b88_completed": 3173,
+      "job_019aa3ed-3e66-7c7e-b1c5-068e4b7e1d41_completed": 3195,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-c5e1-77ab-97d5-1a0e78d5f938.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_1.jpeg",
+          "ms": 1475
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-bed2-7220-a50e-38ca2f970771.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_2.jpeg",
+          "ms": 1409
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-b707-79d2-8846-e9006e89ee96.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_3.jpeg",
+          "ms": 1312
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-c987-74a2-867c-803d57bb3e61.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_4.jpeg",
+          "ms": 1273
+        }
+      ],
+      "runEnd": 1763686875824,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ed-c5e1-77ab-97d5-1a0e78d5f938.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-bed2-7220-a50e-38ca2f970771.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-b707-79d2-8846-e9006e89ee96.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-c987-74a2-867c-803d57bb3e61.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3,
+    "nsfw": true
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_4.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763686824360,
+      "sessionStart": 1763686824360,
+      "sessionEnd": 1763686824689,
+      "submitStart": 1763686825083,
+      "submitEnd": 1763686825609,
+      "pollInitialDelay": 20000,
+      "job_019aa3ed-3da1-77c4-9923-fd6cc432db91_completed": 14807,
+      "job_019aa3ed-3df6-7809-8541-c8f49dd09f0b_completed": 3218,
+      "job_019aa3ed-3e2a-7e66-9b65-830323e39b88_completed": 3173,
+      "job_019aa3ed-3e66-7c7e-b1c5-068e4b7e1d41_completed": 3195,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-c5e1-77ab-97d5-1a0e78d5f938.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_1.jpeg",
+          "ms": 1475
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-bed2-7220-a50e-38ca2f970771.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_2.jpeg",
+          "ms": 1409
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-b707-79d2-8846-e9006e89ee96.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_3.jpeg",
+          "ms": 1312
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ed-c987-74a2-867c-803d57bb3e61.jpeg",
+          "file": "outputs/2025-11-21T01-00-24-360Z_4.jpeg",
+          "ms": 1273
+        }
+      ],
+      "runEnd": 1763686875824,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ed-c5e1-77ab-97d5-1a0e78d5f938.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-bed2-7220-a50e-38ca2f970771.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-b707-79d2-8846-e9006e89ee96.jpeg",
+        "https://wasmall.imgnai.com/019aa3ed-c987-74a2-867c-803d57bb3e61.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4,
+    "nsfw": true
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_1_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763689916471,
+      "sessionStart": 1763689916471,
+      "sessionEnd": 1763689917026,
+      "submitStart": 1763689917847,
+      "submitEnd": 1763689918320,
+      "pollInitialDelay": 20000,
+      "job_019aa41c-6ea7-7b39-8843-ba5e8d6ce3d1_completed": 7931,
+      "job_019aa41c-6ed4-75e6-84f3-d220fc71e35d_completed": 3137,
+      "job_019aa41c-6f0e-7835-b7e1-4f28c35a1848_completed": 3196,
+      "job_019aa41c-6f44-776c-8558-b58cbc70348b_completed": 3146,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-dd5e-7445-b001-acaa1916c633.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_1.jpeg",
+          "ms": 1395
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-db15-7e0b-892a-cac58791f3b8.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_2.jpeg",
+          "ms": 1306
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-ecb4-7fef-ad0d-8a3f9e78335a.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_3.jpeg",
+          "ms": 1263
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-e661-7edf-b44c-4ef1cc94803b.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_4.jpeg",
+          "ms": 1569
+        }
+      ],
+      "runEnd": 1763689961860,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa41c-dd5e-7445-b001-acaa1916c633.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-db15-7e0b-892a-cac58791f3b8.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-ecb4-7fef-ad0d-8a3f9e78335a.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-e661-7edf-b44c-4ef1cc94803b.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1,
+    "storage": "normal"
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_2_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763689916471,
+      "sessionStart": 1763689916471,
+      "sessionEnd": 1763689917026,
+      "submitStart": 1763689917847,
+      "submitEnd": 1763689918320,
+      "pollInitialDelay": 20000,
+      "job_019aa41c-6ea7-7b39-8843-ba5e8d6ce3d1_completed": 7931,
+      "job_019aa41c-6ed4-75e6-84f3-d220fc71e35d_completed": 3137,
+      "job_019aa41c-6f0e-7835-b7e1-4f28c35a1848_completed": 3196,
+      "job_019aa41c-6f44-776c-8558-b58cbc70348b_completed": 3146,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-dd5e-7445-b001-acaa1916c633.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_1.jpeg",
+          "ms": 1395
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-db15-7e0b-892a-cac58791f3b8.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_2.jpeg",
+          "ms": 1306
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-ecb4-7fef-ad0d-8a3f9e78335a.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_3.jpeg",
+          "ms": 1263
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-e661-7edf-b44c-4ef1cc94803b.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_4.jpeg",
+          "ms": 1569
+        }
+      ],
+      "runEnd": 1763689961860,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa41c-dd5e-7445-b001-acaa1916c633.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-db15-7e0b-892a-cac58791f3b8.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-ecb4-7fef-ad0d-8a3f9e78335a.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-e661-7edf-b44c-4ef1cc94803b.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2,
+    "storage": "normal"
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_3_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763689916471,
+      "sessionStart": 1763689916471,
+      "sessionEnd": 1763689917026,
+      "submitStart": 1763689917847,
+      "submitEnd": 1763689918320,
+      "pollInitialDelay": 20000,
+      "job_019aa41c-6ea7-7b39-8843-ba5e8d6ce3d1_completed": 7931,
+      "job_019aa41c-6ed4-75e6-84f3-d220fc71e35d_completed": 3137,
+      "job_019aa41c-6f0e-7835-b7e1-4f28c35a1848_completed": 3196,
+      "job_019aa41c-6f44-776c-8558-b58cbc70348b_completed": 3146,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-dd5e-7445-b001-acaa1916c633.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_1.jpeg",
+          "ms": 1395
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-db15-7e0b-892a-cac58791f3b8.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_2.jpeg",
+          "ms": 1306
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-ecb4-7fef-ad0d-8a3f9e78335a.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_3.jpeg",
+          "ms": 1263
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-e661-7edf-b44c-4ef1cc94803b.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_4.jpeg",
+          "ms": 1569
+        }
+      ],
+      "runEnd": 1763689961860,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa41c-dd5e-7445-b001-acaa1916c633.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-db15-7e0b-892a-cac58791f3b8.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-ecb4-7fef-ad0d-8a3f9e78335a.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-e661-7edf-b44c-4ef1cc94803b.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3,
+    "storage": "normal"
+  },
+  {
+    "file": "Supra_11-20-25_HighQuality_512x512_4_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Supra",
+      "id": "Supra2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763689916471,
+      "sessionStart": 1763689916471,
+      "sessionEnd": 1763689917026,
+      "submitStart": 1763689917847,
+      "submitEnd": 1763689918320,
+      "pollInitialDelay": 20000,
+      "job_019aa41c-6ea7-7b39-8843-ba5e8d6ce3d1_completed": 7931,
+      "job_019aa41c-6ed4-75e6-84f3-d220fc71e35d_completed": 3137,
+      "job_019aa41c-6f0e-7835-b7e1-4f28c35a1848_completed": 3196,
+      "job_019aa41c-6f44-776c-8558-b58cbc70348b_completed": 3146,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-dd5e-7445-b001-acaa1916c633.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_1.jpeg",
+          "ms": 1395
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-db15-7e0b-892a-cac58791f3b8.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_2.jpeg",
+          "ms": 1306
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-ecb4-7fef-ad0d-8a3f9e78335a.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_3.jpeg",
+          "ms": 1263
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa41c-e661-7edf-b44c-4ef1cc94803b.jpeg",
+          "file": "outputs/2025-11-21T01-51-56-471Z_4.jpeg",
+          "ms": 1569
+        }
+      ],
+      "runEnd": 1763689961860,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa41c-dd5e-7445-b001-acaa1916c633.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-db15-7e0b-892a-cac58791f3b8.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-ecb4-7fef-ad0d-8a3f9e78335a.jpeg",
+        "https://wasmall.imgnai.com/019aa41c-e661-7edf-b44c-4ef1cc94803b.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4,
+    "storage": "normal"
+  }
+]

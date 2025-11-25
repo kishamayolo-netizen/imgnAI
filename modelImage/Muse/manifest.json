@@ -1,0 +1,1090 @@
+[
+  {
+    "file": "Muse_11-20-25_Fast_512x512_1.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763677791491,
+      "sessionStart": 1763677791491,
+      "sessionEnd": 1763677792266,
+      "submitStart": 1763677793630,
+      "submitEnd": 1763677794246,
+      "pollInitialDelay": 10000,
+      "job_019aa363-6f89-7a2a-a46f-f89c580f8528_completed": 20051,
+      "job_019aa363-6fad-73c2-a289-a267476e2fb9_completed": 3146,
+      "job_019aa363-6fd9-7b0c-8b5d-12a9a605d470_completed": 3334,
+      "job_019aa363-7007-70f7-a760-3b1cdc05c6a3_completed": 3259,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-e909-7e12-ba0f-a9de0975c7b1.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_1.jpeg",
+          "ms": 1202
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-ce32-70e6-8638-d879a1aea13c.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_2.jpeg",
+          "ms": 1251
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-d98f-7bcb-8f2b-48fd12990d9b.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_3.jpeg",
+          "ms": 1014
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-cc2e-7d37-87ca-33e3e5547d01.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_4.jpeg",
+          "ms": 1182
+        }
+      ],
+      "runEnd": 1763677839759,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa363-e909-7e12-ba0f-a9de0975c7b1.jpeg",
+        "https://wasmall.imgnai.com/019aa363-ce32-70e6-8638-d879a1aea13c.jpeg",
+        "https://wasmall.imgnai.com/019aa363-d98f-7bcb-8f2b-48fd12990d9b.jpeg",
+        "https://wasmall.imgnai.com/019aa363-cc2e-7d37-87ca-33e3e5547d01.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "Muse_11-20-25_Fast_512x512_2.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763677791491,
+      "sessionStart": 1763677791491,
+      "sessionEnd": 1763677792266,
+      "submitStart": 1763677793630,
+      "submitEnd": 1763677794246,
+      "pollInitialDelay": 10000,
+      "job_019aa363-6f89-7a2a-a46f-f89c580f8528_completed": 20051,
+      "job_019aa363-6fad-73c2-a289-a267476e2fb9_completed": 3146,
+      "job_019aa363-6fd9-7b0c-8b5d-12a9a605d470_completed": 3334,
+      "job_019aa363-7007-70f7-a760-3b1cdc05c6a3_completed": 3259,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-e909-7e12-ba0f-a9de0975c7b1.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_1.jpeg",
+          "ms": 1202
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-ce32-70e6-8638-d879a1aea13c.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_2.jpeg",
+          "ms": 1251
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-d98f-7bcb-8f2b-48fd12990d9b.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_3.jpeg",
+          "ms": 1014
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-cc2e-7d37-87ca-33e3e5547d01.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_4.jpeg",
+          "ms": 1182
+        }
+      ],
+      "runEnd": 1763677839759,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa363-e909-7e12-ba0f-a9de0975c7b1.jpeg",
+        "https://wasmall.imgnai.com/019aa363-ce32-70e6-8638-d879a1aea13c.jpeg",
+        "https://wasmall.imgnai.com/019aa363-d98f-7bcb-8f2b-48fd12990d9b.jpeg",
+        "https://wasmall.imgnai.com/019aa363-cc2e-7d37-87ca-33e3e5547d01.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "Muse_11-20-25_Fast_512x512_3.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763677791491,
+      "sessionStart": 1763677791491,
+      "sessionEnd": 1763677792266,
+      "submitStart": 1763677793630,
+      "submitEnd": 1763677794246,
+      "pollInitialDelay": 10000,
+      "job_019aa363-6f89-7a2a-a46f-f89c580f8528_completed": 20051,
+      "job_019aa363-6fad-73c2-a289-a267476e2fb9_completed": 3146,
+      "job_019aa363-6fd9-7b0c-8b5d-12a9a605d470_completed": 3334,
+      "job_019aa363-7007-70f7-a760-3b1cdc05c6a3_completed": 3259,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-e909-7e12-ba0f-a9de0975c7b1.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_1.jpeg",
+          "ms": 1202
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-ce32-70e6-8638-d879a1aea13c.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_2.jpeg",
+          "ms": 1251
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-d98f-7bcb-8f2b-48fd12990d9b.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_3.jpeg",
+          "ms": 1014
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-cc2e-7d37-87ca-33e3e5547d01.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_4.jpeg",
+          "ms": 1182
+        }
+      ],
+      "runEnd": 1763677839759,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa363-e909-7e12-ba0f-a9de0975c7b1.jpeg",
+        "https://wasmall.imgnai.com/019aa363-ce32-70e6-8638-d879a1aea13c.jpeg",
+        "https://wasmall.imgnai.com/019aa363-d98f-7bcb-8f2b-48fd12990d9b.jpeg",
+        "https://wasmall.imgnai.com/019aa363-cc2e-7d37-87ca-33e3e5547d01.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "Muse_11-20-25_Fast_512x512_4.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763677791491,
+      "sessionStart": 1763677791491,
+      "sessionEnd": 1763677792266,
+      "submitStart": 1763677793630,
+      "submitEnd": 1763677794246,
+      "pollInitialDelay": 10000,
+      "job_019aa363-6f89-7a2a-a46f-f89c580f8528_completed": 20051,
+      "job_019aa363-6fad-73c2-a289-a267476e2fb9_completed": 3146,
+      "job_019aa363-6fd9-7b0c-8b5d-12a9a605d470_completed": 3334,
+      "job_019aa363-7007-70f7-a760-3b1cdc05c6a3_completed": 3259,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-e909-7e12-ba0f-a9de0975c7b1.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_1.jpeg",
+          "ms": 1202
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-ce32-70e6-8638-d879a1aea13c.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_2.jpeg",
+          "ms": 1251
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-d98f-7bcb-8f2b-48fd12990d9b.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_3.jpeg",
+          "ms": 1014
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa363-cc2e-7d37-87ca-33e3e5547d01.jpeg",
+          "file": "outputs/2025-11-20T22-29-51-491Z_4.jpeg",
+          "ms": 1182
+        }
+      ],
+      "runEnd": 1763677839759,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa363-e909-7e12-ba0f-a9de0975c7b1.jpeg",
+        "https://wasmall.imgnai.com/019aa363-ce32-70e6-8638-d879a1aea13c.jpeg",
+        "https://wasmall.imgnai.com/019aa363-d98f-7bcb-8f2b-48fd12990d9b.jpeg",
+        "https://wasmall.imgnai.com/019aa363-cc2e-7d37-87ca-33e3e5547d01.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "Muse_11-20-25_Fast_512x512_1.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763682010495,
+      "sessionStart": 1763682010495,
+      "sessionEnd": 1763682010792,
+      "submitStart": 1763682011403,
+      "submitEnd": 1763682011893,
+      "pollInitialDelay": 10000,
+      "job_019aa3a3-ca35-778e-9258-1a63a4971220_completed": 15074,
+      "job_019aa3a3-ca59-7102-af8f-11c6bd38544a_completed": 3278,
+      "job_019aa3a3-ca8e-7bfa-a08a-7ec043d7a80e_completed": 3172,
+      "job_019aa3a3-caaa-7e9e-9768-6b5b3ee5400f_completed": 3278,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-2dad-72a7-92d4-2da338c42f7b.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_1.jpeg",
+          "ms": 1177
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-32ea-75ce-a33d-86fa58cbce48.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_2.jpeg",
+          "ms": 1109
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-418a-7fc8-9078-3a063d8943cc.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_3.jpeg",
+          "ms": 902
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-36e2-7434-9024-f133af302be7.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_4.jpeg",
+          "ms": 439
+        }
+      ],
+      "runEnd": 1763682050842,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3a4-2dad-72a7-92d4-2da338c42f7b.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-32ea-75ce-a33d-86fa58cbce48.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-418a-7fc8-9078-3a063d8943cc.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-36e2-7434-9024-f133af302be7.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "Muse_11-20-25_Fast_512x512_2.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763682010495,
+      "sessionStart": 1763682010495,
+      "sessionEnd": 1763682010792,
+      "submitStart": 1763682011403,
+      "submitEnd": 1763682011893,
+      "pollInitialDelay": 10000,
+      "job_019aa3a3-ca35-778e-9258-1a63a4971220_completed": 15074,
+      "job_019aa3a3-ca59-7102-af8f-11c6bd38544a_completed": 3278,
+      "job_019aa3a3-ca8e-7bfa-a08a-7ec043d7a80e_completed": 3172,
+      "job_019aa3a3-caaa-7e9e-9768-6b5b3ee5400f_completed": 3278,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-2dad-72a7-92d4-2da338c42f7b.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_1.jpeg",
+          "ms": 1177
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-32ea-75ce-a33d-86fa58cbce48.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_2.jpeg",
+          "ms": 1109
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-418a-7fc8-9078-3a063d8943cc.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_3.jpeg",
+          "ms": 902
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-36e2-7434-9024-f133af302be7.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_4.jpeg",
+          "ms": 439
+        }
+      ],
+      "runEnd": 1763682050842,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3a4-2dad-72a7-92d4-2da338c42f7b.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-32ea-75ce-a33d-86fa58cbce48.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-418a-7fc8-9078-3a063d8943cc.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-36e2-7434-9024-f133af302be7.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "Muse_11-20-25_Fast_512x512_3.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763682010495,
+      "sessionStart": 1763682010495,
+      "sessionEnd": 1763682010792,
+      "submitStart": 1763682011403,
+      "submitEnd": 1763682011893,
+      "pollInitialDelay": 10000,
+      "job_019aa3a3-ca35-778e-9258-1a63a4971220_completed": 15074,
+      "job_019aa3a3-ca59-7102-af8f-11c6bd38544a_completed": 3278,
+      "job_019aa3a3-ca8e-7bfa-a08a-7ec043d7a80e_completed": 3172,
+      "job_019aa3a3-caaa-7e9e-9768-6b5b3ee5400f_completed": 3278,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-2dad-72a7-92d4-2da338c42f7b.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_1.jpeg",
+          "ms": 1177
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-32ea-75ce-a33d-86fa58cbce48.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_2.jpeg",
+          "ms": 1109
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-418a-7fc8-9078-3a063d8943cc.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_3.jpeg",
+          "ms": 902
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-36e2-7434-9024-f133af302be7.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_4.jpeg",
+          "ms": 439
+        }
+      ],
+      "runEnd": 1763682050842,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3a4-2dad-72a7-92d4-2da338c42f7b.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-32ea-75ce-a33d-86fa58cbce48.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-418a-7fc8-9078-3a063d8943cc.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-36e2-7434-9024-f133af302be7.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "Muse_11-20-25_Fast_512x512_4.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763682010495,
+      "sessionStart": 1763682010495,
+      "sessionEnd": 1763682010792,
+      "submitStart": 1763682011403,
+      "submitEnd": 1763682011893,
+      "pollInitialDelay": 10000,
+      "job_019aa3a3-ca35-778e-9258-1a63a4971220_completed": 15074,
+      "job_019aa3a3-ca59-7102-af8f-11c6bd38544a_completed": 3278,
+      "job_019aa3a3-ca8e-7bfa-a08a-7ec043d7a80e_completed": 3172,
+      "job_019aa3a3-caaa-7e9e-9768-6b5b3ee5400f_completed": 3278,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-2dad-72a7-92d4-2da338c42f7b.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_1.jpeg",
+          "ms": 1177
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-32ea-75ce-a33d-86fa58cbce48.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_2.jpeg",
+          "ms": 1109
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-418a-7fc8-9078-3a063d8943cc.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_3.jpeg",
+          "ms": 902
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3a4-36e2-7434-9024-f133af302be7.jpeg",
+          "file": "outputs/2025-11-20T23-40-10-495Z_4.jpeg",
+          "ms": 439
+        }
+      ],
+      "runEnd": 1763682050842,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3a4-2dad-72a7-92d4-2da338c42f7b.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-32ea-75ce-a33d-86fa58cbce48.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-418a-7fc8-9078-3a063d8943cc.jpeg",
+        "https://wasmall.imgnai.com/019aa3a4-36e2-7434-9024-f133af302be7.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_1.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763682609379,
+      "sessionStart": 1763682609379,
+      "sessionEnd": 1763682609685,
+      "submitStart": 1763682610034,
+      "submitEnd": 1763682610471,
+      "pollInitialDelay": 20000,
+      "job_019aa3ac-ecba-7f68-a8d9-b77c8c80c7b0_completed": 64835,
+      "job_019aa3ac-ecec-7abc-be3b-3057a77829dc_completed": 3265,
+      "job_019aa3ac-ed19-7eac-a0c7-9abca7e8aada_completed": 64176,
+      "job_019aa3ac-ed3e-7cd2-a71e-d57af4a33c1e_completed": 3191,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-3a68-743f-8fbb-c55bd49f0bae.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_1.jpeg",
+          "ms": 1452
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-2d6e-7a5e-aa00-62ed716da0d2.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_2.jpeg",
+          "ms": 1267
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3af-4261-7196-bf36-de5231cd5666.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_3.jpeg",
+          "ms": 1235
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-3a15-7005-99f0-ed67f997424d.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_4.jpeg",
+          "ms": 1250
+        }
+      ],
+      "runEnd": 1763682772049,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ae-3a68-743f-8fbb-c55bd49f0bae.jpeg",
+        "https://wasmall.imgnai.com/019aa3ae-2d6e-7a5e-aa00-62ed716da0d2.jpeg",
+        "https://wasmall.imgnai.com/019aa3af-4261-7196-bf36-de5231cd5666.jpeg",
+        "https://wasmall.imgnai.com/019aa3ae-3a15-7005-99f0-ed67f997424d.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_2.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763682609379,
+      "sessionStart": 1763682609379,
+      "sessionEnd": 1763682609685,
+      "submitStart": 1763682610034,
+      "submitEnd": 1763682610471,
+      "pollInitialDelay": 20000,
+      "job_019aa3ac-ecba-7f68-a8d9-b77c8c80c7b0_completed": 64835,
+      "job_019aa3ac-ecec-7abc-be3b-3057a77829dc_completed": 3265,
+      "job_019aa3ac-ed19-7eac-a0c7-9abca7e8aada_completed": 64176,
+      "job_019aa3ac-ed3e-7cd2-a71e-d57af4a33c1e_completed": 3191,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-3a68-743f-8fbb-c55bd49f0bae.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_1.jpeg",
+          "ms": 1452
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-2d6e-7a5e-aa00-62ed716da0d2.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_2.jpeg",
+          "ms": 1267
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3af-4261-7196-bf36-de5231cd5666.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_3.jpeg",
+          "ms": 1235
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-3a15-7005-99f0-ed67f997424d.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_4.jpeg",
+          "ms": 1250
+        }
+      ],
+      "runEnd": 1763682772049,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ae-3a68-743f-8fbb-c55bd49f0bae.jpeg",
+        "https://wasmall.imgnai.com/019aa3ae-2d6e-7a5e-aa00-62ed716da0d2.jpeg",
+        "https://wasmall.imgnai.com/019aa3af-4261-7196-bf36-de5231cd5666.jpeg",
+        "https://wasmall.imgnai.com/019aa3ae-3a15-7005-99f0-ed67f997424d.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_3.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763682609379,
+      "sessionStart": 1763682609379,
+      "sessionEnd": 1763682609685,
+      "submitStart": 1763682610034,
+      "submitEnd": 1763682610471,
+      "pollInitialDelay": 20000,
+      "job_019aa3ac-ecba-7f68-a8d9-b77c8c80c7b0_completed": 64835,
+      "job_019aa3ac-ecec-7abc-be3b-3057a77829dc_completed": 3265,
+      "job_019aa3ac-ed19-7eac-a0c7-9abca7e8aada_completed": 64176,
+      "job_019aa3ac-ed3e-7cd2-a71e-d57af4a33c1e_completed": 3191,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-3a68-743f-8fbb-c55bd49f0bae.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_1.jpeg",
+          "ms": 1452
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-2d6e-7a5e-aa00-62ed716da0d2.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_2.jpeg",
+          "ms": 1267
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3af-4261-7196-bf36-de5231cd5666.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_3.jpeg",
+          "ms": 1235
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-3a15-7005-99f0-ed67f997424d.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_4.jpeg",
+          "ms": 1250
+        }
+      ],
+      "runEnd": 1763682772049,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ae-3a68-743f-8fbb-c55bd49f0bae.jpeg",
+        "https://wasmall.imgnai.com/019aa3ae-2d6e-7a5e-aa00-62ed716da0d2.jpeg",
+        "https://wasmall.imgnai.com/019aa3af-4261-7196-bf36-de5231cd5666.jpeg",
+        "https://wasmall.imgnai.com/019aa3ae-3a15-7005-99f0-ed67f997424d.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_4.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763682609379,
+      "sessionStart": 1763682609379,
+      "sessionEnd": 1763682609685,
+      "submitStart": 1763682610034,
+      "submitEnd": 1763682610471,
+      "pollInitialDelay": 20000,
+      "job_019aa3ac-ecba-7f68-a8d9-b77c8c80c7b0_completed": 64835,
+      "job_019aa3ac-ecec-7abc-be3b-3057a77829dc_completed": 3265,
+      "job_019aa3ac-ed19-7eac-a0c7-9abca7e8aada_completed": 64176,
+      "job_019aa3ac-ed3e-7cd2-a71e-d57af4a33c1e_completed": 3191,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-3a68-743f-8fbb-c55bd49f0bae.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_1.jpeg",
+          "ms": 1452
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-2d6e-7a5e-aa00-62ed716da0d2.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_2.jpeg",
+          "ms": 1267
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3af-4261-7196-bf36-de5231cd5666.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_3.jpeg",
+          "ms": 1235
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3ae-3a15-7005-99f0-ed67f997424d.jpeg",
+          "file": "outputs/2025-11-20T23-50-09-379Z_4.jpeg",
+          "ms": 1250
+        }
+      ],
+      "runEnd": 1763682772049,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3ae-3a68-743f-8fbb-c55bd49f0bae.jpeg",
+        "https://wasmall.imgnai.com/019aa3ae-2d6e-7a5e-aa00-62ed716da0d2.jpeg",
+        "https://wasmall.imgnai.com/019aa3af-4261-7196-bf36-de5231cd5666.jpeg",
+        "https://wasmall.imgnai.com/019aa3ae-3a15-7005-99f0-ed67f997424d.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_1.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763685749809,
+      "sessionStart": 1763685749809,
+      "sessionEnd": 1763685750173,
+      "submitStart": 1763685750625,
+      "submitEnd": 1763685751093,
+      "pollInitialDelay": 20000,
+      "job_019aa3dc-d88e-791e-a81c-271ef42a6dc2_completed": 238234,
+      "job_019aa3dc-d8bf-7fee-88db-901cdabb734a_completed": 3236,
+      "job_019aa3dc-d8eb-7f9e-8cdf-a1793e0ce38a_completed": 3389,
+      "job_019aa3dc-d914-7167-8cf0-08f848fd41ff_completed": 3158,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-10a8-7a9d-ad7b-498490e0e466.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_1.jpeg",
+          "ms": 1324
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-6bd2-7a88-90ab-be07cf60c6f6.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_2.jpeg",
+          "ms": 1355
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-8d75-72a4-9ca8-2d0847f13716.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_3.jpeg",
+          "ms": 1083
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-2c12-76aa-8f00-132bf8a7f763.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_4.jpeg",
+          "ms": 1276
+        }
+      ],
+      "runEnd": 1763686024474,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3e0-10a8-7a9d-ad7b-498490e0e466.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-6bd2-7a88-90ab-be07cf60c6f6.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-8d75-72a4-9ca8-2d0847f13716.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-2c12-76aa-8f00-132bf8a7f763.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1,
+    "nsfw": true
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_2.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763685749809,
+      "sessionStart": 1763685749809,
+      "sessionEnd": 1763685750173,
+      "submitStart": 1763685750625,
+      "submitEnd": 1763685751093,
+      "pollInitialDelay": 20000,
+      "job_019aa3dc-d88e-791e-a81c-271ef42a6dc2_completed": 238234,
+      "job_019aa3dc-d8bf-7fee-88db-901cdabb734a_completed": 3236,
+      "job_019aa3dc-d8eb-7f9e-8cdf-a1793e0ce38a_completed": 3389,
+      "job_019aa3dc-d914-7167-8cf0-08f848fd41ff_completed": 3158,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-10a8-7a9d-ad7b-498490e0e466.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_1.jpeg",
+          "ms": 1324
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-6bd2-7a88-90ab-be07cf60c6f6.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_2.jpeg",
+          "ms": 1355
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-8d75-72a4-9ca8-2d0847f13716.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_3.jpeg",
+          "ms": 1083
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-2c12-76aa-8f00-132bf8a7f763.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_4.jpeg",
+          "ms": 1276
+        }
+      ],
+      "runEnd": 1763686024474,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3e0-10a8-7a9d-ad7b-498490e0e466.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-6bd2-7a88-90ab-be07cf60c6f6.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-8d75-72a4-9ca8-2d0847f13716.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-2c12-76aa-8f00-132bf8a7f763.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2,
+    "nsfw": true
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_3.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763685749809,
+      "sessionStart": 1763685749809,
+      "sessionEnd": 1763685750173,
+      "submitStart": 1763685750625,
+      "submitEnd": 1763685751093,
+      "pollInitialDelay": 20000,
+      "job_019aa3dc-d88e-791e-a81c-271ef42a6dc2_completed": 238234,
+      "job_019aa3dc-d8bf-7fee-88db-901cdabb734a_completed": 3236,
+      "job_019aa3dc-d8eb-7f9e-8cdf-a1793e0ce38a_completed": 3389,
+      "job_019aa3dc-d914-7167-8cf0-08f848fd41ff_completed": 3158,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-10a8-7a9d-ad7b-498490e0e466.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_1.jpeg",
+          "ms": 1324
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-6bd2-7a88-90ab-be07cf60c6f6.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_2.jpeg",
+          "ms": 1355
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-8d75-72a4-9ca8-2d0847f13716.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_3.jpeg",
+          "ms": 1083
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-2c12-76aa-8f00-132bf8a7f763.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_4.jpeg",
+          "ms": 1276
+        }
+      ],
+      "runEnd": 1763686024474,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3e0-10a8-7a9d-ad7b-498490e0e466.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-6bd2-7a88-90ab-be07cf60c6f6.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-8d75-72a4-9ca8-2d0847f13716.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-2c12-76aa-8f00-132bf8a7f763.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3,
+    "nsfw": true
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_4.jpeg",
+    "prompt": "nsfw, explicit sexual intercourse, hardcore porn, adult content only,  masterpiece, best quality, ultra-detailed, photorealistic, 8k, raw photo,  1girl, beautiful 23-year-old woman, perfect symmetrical face, flushed aroused expression, half-lidded eyes, biting lower lip, long messy hair,  large natural breasts, pink puffy nipples, glistening saliva on breasts and nipples,  1boy, muscular athletic man, short dark hair, intense eye contact,  passionate vaginal sex, doggystyle position on bed, deep penetration, his thick erect penis fully inserted into her wet pussy, visible pussy lips stretched around shaft, love juices dripping down thighs,  he is leaning forward licking and sucking her dangling breasts, tongue swirling around nipple, saliva trail connecting tongue to nipple, breasts jiggling with each thrust,  dynamic motion blur on hips, sweat droplets on skin, detailed anatomy, visible clitoris, labia spread,  luxury bedroom background, silk sheets, warm cinematic lighting, rim lighting, volumetric god rays, shallow depth of field, extreme close-up side angle showing both breast-licking and penetration simultaneously,  negative prompt: clothed, underwear, bra, panties, censored, mosaic, blur, text, watermark, bad anatomy, deformed, extra limbs, childlike",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763685749809,
+      "sessionStart": 1763685749809,
+      "sessionEnd": 1763685750173,
+      "submitStart": 1763685750625,
+      "submitEnd": 1763685751093,
+      "pollInitialDelay": 20000,
+      "job_019aa3dc-d88e-791e-a81c-271ef42a6dc2_completed": 238234,
+      "job_019aa3dc-d8bf-7fee-88db-901cdabb734a_completed": 3236,
+      "job_019aa3dc-d8eb-7f9e-8cdf-a1793e0ce38a_completed": 3389,
+      "job_019aa3dc-d914-7167-8cf0-08f848fd41ff_completed": 3158,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-10a8-7a9d-ad7b-498490e0e466.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_1.jpeg",
+          "ms": 1324
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-6bd2-7a88-90ab-be07cf60c6f6.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_2.jpeg",
+          "ms": 1355
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-8d75-72a4-9ca8-2d0847f13716.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_3.jpeg",
+          "ms": 1083
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3e0-2c12-76aa-8f00-132bf8a7f763.jpeg",
+          "file": "outputs/2025-11-21T00-42-29-809Z_4.jpeg",
+          "ms": 1276
+        }
+      ],
+      "runEnd": 1763686024474,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3e0-10a8-7a9d-ad7b-498490e0e466.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-6bd2-7a88-90ab-be07cf60c6f6.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-8d75-72a4-9ca8-2d0847f13716.jpeg",
+        "https://wasmall.imgnai.com/019aa3e0-2c12-76aa-8f00-132bf8a7f763.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4,
+    "nsfw": true
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_1_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763689366259,
+      "sessionStart": 1763689366259,
+      "sessionEnd": 1763689366557,
+      "submitStart": 1763689366957,
+      "submitEnd": 1763689367578,
+      "pollInitialDelay": 20000,
+      "job_019aa414-06e4-75b6-b34c-39eda49d3ae5_completed": 70486,
+      "job_019aa414-06fc-7578-a105-04353a7fd910_completed": 3139,
+      "job_019aa414-071e-79fb-8456-1ff68d50928d_completed": 3200,
+      "job_019aa414-074f-71e3-839b-8ba48345ddb0_completed": 69469,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-69aa-7fc5-9d0a-f3f4383a6d12.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_1.jpeg",
+          "ms": 1258
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-446d-70a8-8e71-bbe3ef43f7e5.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_2.jpeg",
+          "ms": 1277
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-53f3-7efa-a8d1-643cd0d7ca10.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_3.jpeg",
+          "ms": 1112
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa416-91e6-70ab-9c03-53d7181d8e84.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_4.jpeg",
+          "ms": 1229
+        }
+      ],
+      "runEnd": 1763689539095,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa415-69aa-7fc5-9d0a-f3f4383a6d12.jpeg",
+        "https://wasmall.imgnai.com/019aa415-446d-70a8-8e71-bbe3ef43f7e5.jpeg",
+        "https://wasmall.imgnai.com/019aa415-53f3-7efa-a8d1-643cd0d7ca10.jpeg",
+        "https://wasmall.imgnai.com/019aa416-91e6-70ab-9c03-53d7181d8e84.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1,
+    "storage": "normal"
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_2_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763689366259,
+      "sessionStart": 1763689366259,
+      "sessionEnd": 1763689366557,
+      "submitStart": 1763689366957,
+      "submitEnd": 1763689367578,
+      "pollInitialDelay": 20000,
+      "job_019aa414-06e4-75b6-b34c-39eda49d3ae5_completed": 70486,
+      "job_019aa414-06fc-7578-a105-04353a7fd910_completed": 3139,
+      "job_019aa414-071e-79fb-8456-1ff68d50928d_completed": 3200,
+      "job_019aa414-074f-71e3-839b-8ba48345ddb0_completed": 69469,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-69aa-7fc5-9d0a-f3f4383a6d12.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_1.jpeg",
+          "ms": 1258
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-446d-70a8-8e71-bbe3ef43f7e5.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_2.jpeg",
+          "ms": 1277
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-53f3-7efa-a8d1-643cd0d7ca10.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_3.jpeg",
+          "ms": 1112
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa416-91e6-70ab-9c03-53d7181d8e84.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_4.jpeg",
+          "ms": 1229
+        }
+      ],
+      "runEnd": 1763689539095,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa415-69aa-7fc5-9d0a-f3f4383a6d12.jpeg",
+        "https://wasmall.imgnai.com/019aa415-446d-70a8-8e71-bbe3ef43f7e5.jpeg",
+        "https://wasmall.imgnai.com/019aa415-53f3-7efa-a8d1-643cd0d7ca10.jpeg",
+        "https://wasmall.imgnai.com/019aa416-91e6-70ab-9c03-53d7181d8e84.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2,
+    "storage": "normal"
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_3_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763689366259,
+      "sessionStart": 1763689366259,
+      "sessionEnd": 1763689366557,
+      "submitStart": 1763689366957,
+      "submitEnd": 1763689367578,
+      "pollInitialDelay": 20000,
+      "job_019aa414-06e4-75b6-b34c-39eda49d3ae5_completed": 70486,
+      "job_019aa414-06fc-7578-a105-04353a7fd910_completed": 3139,
+      "job_019aa414-071e-79fb-8456-1ff68d50928d_completed": 3200,
+      "job_019aa414-074f-71e3-839b-8ba48345ddb0_completed": 69469,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-69aa-7fc5-9d0a-f3f4383a6d12.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_1.jpeg",
+          "ms": 1258
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-446d-70a8-8e71-bbe3ef43f7e5.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_2.jpeg",
+          "ms": 1277
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-53f3-7efa-a8d1-643cd0d7ca10.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_3.jpeg",
+          "ms": 1112
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa416-91e6-70ab-9c03-53d7181d8e84.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_4.jpeg",
+          "ms": 1229
+        }
+      ],
+      "runEnd": 1763689539095,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa415-69aa-7fc5-9d0a-f3f4383a6d12.jpeg",
+        "https://wasmall.imgnai.com/019aa415-446d-70a8-8e71-bbe3ef43f7e5.jpeg",
+        "https://wasmall.imgnai.com/019aa415-53f3-7efa-a8d1-643cd0d7ca10.jpeg",
+        "https://wasmall.imgnai.com/019aa416-91e6-70ab-9c03-53d7181d8e84.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3,
+    "storage": "normal"
+  },
+  {
+    "file": "Muse_11-20-25_HighQuality_512x512_4_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "Muse",
+      "id": "Muse"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763689366259,
+      "sessionStart": 1763689366259,
+      "sessionEnd": 1763689366557,
+      "submitStart": 1763689366957,
+      "submitEnd": 1763689367578,
+      "pollInitialDelay": 20000,
+      "job_019aa414-06e4-75b6-b34c-39eda49d3ae5_completed": 70486,
+      "job_019aa414-06fc-7578-a105-04353a7fd910_completed": 3139,
+      "job_019aa414-071e-79fb-8456-1ff68d50928d_completed": 3200,
+      "job_019aa414-074f-71e3-839b-8ba48345ddb0_completed": 69469,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-69aa-7fc5-9d0a-f3f4383a6d12.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_1.jpeg",
+          "ms": 1258
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-446d-70a8-8e71-bbe3ef43f7e5.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_2.jpeg",
+          "ms": 1277
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa415-53f3-7efa-a8d1-643cd0d7ca10.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_3.jpeg",
+          "ms": 1112
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa416-91e6-70ab-9c03-53d7181d8e84.jpeg",
+          "file": "outputs/2025-11-21T01-42-46-259Z_4.jpeg",
+          "ms": 1229
+        }
+      ],
+      "runEnd": 1763689539095,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa415-69aa-7fc5-9d0a-f3f4383a6d12.jpeg",
+        "https://wasmall.imgnai.com/019aa415-446d-70a8-8e71-bbe3ef43f7e5.jpeg",
+        "https://wasmall.imgnai.com/019aa415-53f3-7efa-a8d1-643cd0d7ca10.jpeg",
+        "https://wasmall.imgnai.com/019aa416-91e6-70ab-9c03-53d7181d8e84.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4,
+    "storage": "normal"
+  }
+]

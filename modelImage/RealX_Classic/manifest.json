@@ -1,0 +1,654 @@
+[
+  {
+    "file": "RealX_Classic_11-20-25_Fast_512x512_1.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678334361,
+      "sessionStart": 1763678334362,
+      "sessionEnd": 1763678334675,
+      "submitStart": 1763678335105,
+      "submitEnd": 1763678335686,
+      "pollInitialDelay": 10000,
+      "job_019aa36b-b2f7-781a-8a5e-3662ea014075_completed": 20787,
+      "job_019aa36b-b335-7e60-b700-8faa9893eb62_completed": 10086,
+      "job_019aa36b-b35d-77bb-ba2e-bc227f74981d_completed": 7795,
+      "job_019aa36b-b384-73dc-8629-b7b2f802e6f0_completed": 8236,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-2bbf-70db-8988-0c5afd9fa751.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_1.jpeg",
+          "ms": 1239
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-5394-765d-a0dd-271a259115ae.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_2.jpeg",
+          "ms": 1102
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-7217-7a3c-bd73-06bc7f2a60fc.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_3.jpeg",
+          "ms": 1129
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-9228-70e5-9421-611d7bc2aebb.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_4.jpeg",
+          "ms": 1220
+        }
+      ],
+      "runEnd": 1763678397630,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa36c-2bbf-70db-8988-0c5afd9fa751.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-5394-765d-a0dd-271a259115ae.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-7217-7a3c-bd73-06bc7f2a60fc.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-9228-70e5-9421-611d7bc2aebb.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "RealX_Classic_11-20-25_Fast_512x512_2.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678334361,
+      "sessionStart": 1763678334362,
+      "sessionEnd": 1763678334675,
+      "submitStart": 1763678335105,
+      "submitEnd": 1763678335686,
+      "pollInitialDelay": 10000,
+      "job_019aa36b-b2f7-781a-8a5e-3662ea014075_completed": 20787,
+      "job_019aa36b-b335-7e60-b700-8faa9893eb62_completed": 10086,
+      "job_019aa36b-b35d-77bb-ba2e-bc227f74981d_completed": 7795,
+      "job_019aa36b-b384-73dc-8629-b7b2f802e6f0_completed": 8236,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-2bbf-70db-8988-0c5afd9fa751.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_1.jpeg",
+          "ms": 1239
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-5394-765d-a0dd-271a259115ae.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_2.jpeg",
+          "ms": 1102
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-7217-7a3c-bd73-06bc7f2a60fc.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_3.jpeg",
+          "ms": 1129
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-9228-70e5-9421-611d7bc2aebb.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_4.jpeg",
+          "ms": 1220
+        }
+      ],
+      "runEnd": 1763678397630,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa36c-2bbf-70db-8988-0c5afd9fa751.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-5394-765d-a0dd-271a259115ae.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-7217-7a3c-bd73-06bc7f2a60fc.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-9228-70e5-9421-611d7bc2aebb.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "RealX_Classic_11-20-25_Fast_512x512_3.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678334361,
+      "sessionStart": 1763678334362,
+      "sessionEnd": 1763678334675,
+      "submitStart": 1763678335105,
+      "submitEnd": 1763678335686,
+      "pollInitialDelay": 10000,
+      "job_019aa36b-b2f7-781a-8a5e-3662ea014075_completed": 20787,
+      "job_019aa36b-b335-7e60-b700-8faa9893eb62_completed": 10086,
+      "job_019aa36b-b35d-77bb-ba2e-bc227f74981d_completed": 7795,
+      "job_019aa36b-b384-73dc-8629-b7b2f802e6f0_completed": 8236,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-2bbf-70db-8988-0c5afd9fa751.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_1.jpeg",
+          "ms": 1239
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-5394-765d-a0dd-271a259115ae.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_2.jpeg",
+          "ms": 1102
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-7217-7a3c-bd73-06bc7f2a60fc.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_3.jpeg",
+          "ms": 1129
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-9228-70e5-9421-611d7bc2aebb.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_4.jpeg",
+          "ms": 1220
+        }
+      ],
+      "runEnd": 1763678397630,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa36c-2bbf-70db-8988-0c5afd9fa751.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-5394-765d-a0dd-271a259115ae.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-7217-7a3c-bd73-06bc7f2a60fc.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-9228-70e5-9421-611d7bc2aebb.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "RealX_Classic_11-20-25_Fast_512x512_4.jpeg",
+    "prompt": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft film grain,  1girl, early 20s, strikingly beautiful, delicate heart-shaped face, large expressive hazel eyes with long lashes, subtle freckles across nose, soft natural smile,  long wavy chestnut hair with golden highlights flowing in a gentle breeze, a few loose strands framing her face,  wearing an elegant off-shoulder cream linen sundress with delicate embroidery, thin straps, flowing skirt gently catching the wind,  standing barefoot in a sunlit wildflower meadow at golden hour, warm sunlight filtering through tall grass, soft bokeh background of poppies, daisies and lavender,  butterflies fluttering nearby, ethereal atmosphere, dreamy and serene expression, looking directly at viewer with quiet confidence,  gentle rim lighting, god rays, subtle lens flare, pastel color palette, highly detailed skin texture, natural makeup, rosy cheeks,  shot on 85mm lens, shallow depth of field, sharp focus on eyes, award-winning portrait photography, editorial fashion vibe",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "Fast",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763678334361,
+      "sessionStart": 1763678334362,
+      "sessionEnd": 1763678334675,
+      "submitStart": 1763678335105,
+      "submitEnd": 1763678335686,
+      "pollInitialDelay": 10000,
+      "job_019aa36b-b2f7-781a-8a5e-3662ea014075_completed": 20787,
+      "job_019aa36b-b335-7e60-b700-8faa9893eb62_completed": 10086,
+      "job_019aa36b-b35d-77bb-ba2e-bc227f74981d_completed": 7795,
+      "job_019aa36b-b384-73dc-8629-b7b2f802e6f0_completed": 8236,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-2bbf-70db-8988-0c5afd9fa751.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_1.jpeg",
+          "ms": 1239
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-5394-765d-a0dd-271a259115ae.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_2.jpeg",
+          "ms": 1102
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-7217-7a3c-bd73-06bc7f2a60fc.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_3.jpeg",
+          "ms": 1129
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa36c-9228-70e5-9421-611d7bc2aebb.jpeg",
+          "file": "outputs/2025-11-20T22-38-54-361Z_4.jpeg",
+          "ms": 1220
+        }
+      ],
+      "runEnd": 1763678397630,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa36c-2bbf-70db-8988-0c5afd9fa751.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-5394-765d-a0dd-271a259115ae.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-7217-7a3c-bd73-06bc7f2a60fc.jpeg",
+        "https://wasmall.imgnai.com/019aa36c-9228-70e5-9421-611d7bc2aebb.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "RealX_Classic_11-20-25_HighQuality_512x512_1.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683564613,
+      "sessionStart": 1763683564613,
+      "sessionEnd": 1763683564853,
+      "submitStart": 1763683565229,
+      "submitEnd": 1763683565676,
+      "pollInitialDelay": 20000,
+      "job_019aa3bb-7fde-7fbd-a743-f840a1bdfd80_completed": 97258,
+      "job_019aa3bb-8025-749e-b619-4baa1562e471_completed": 19416,
+      "job_019aa3bb-8047-7d48-b23d-fc72a7d79e29_completed": 22467,
+      "job_019aa3bb-806c-74c4-82e3-b7de44d04cbb_completed": 22708,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-3ebc-740e-96cc-825a2171d478.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_1.jpeg",
+          "ms": 1462
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-96c4-7b36-a7ff-290fd1ff60ad.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_2.jpeg",
+          "ms": 1442
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-ee8c-7065-9305-931924f342eb.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_3.jpeg",
+          "ms": 1584
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3be-4752-7dfe-920d-243dbc58c72a.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_4.jpeg",
+          "ms": 1257
+        }
+      ],
+      "runEnd": 1763683753741,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3bd-3ebc-740e-96cc-825a2171d478.jpeg",
+        "https://wasmall.imgnai.com/019aa3bd-96c4-7b36-a7ff-290fd1ff60ad.jpeg",
+        "https://wasmall.imgnai.com/019aa3bd-ee8c-7065-9305-931924f342eb.jpeg",
+        "https://wasmall.imgnai.com/019aa3be-4752-7dfe-920d-243dbc58c72a.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1
+  },
+  {
+    "file": "RealX_Classic_11-20-25_HighQuality_512x512_2.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683564613,
+      "sessionStart": 1763683564613,
+      "sessionEnd": 1763683564853,
+      "submitStart": 1763683565229,
+      "submitEnd": 1763683565676,
+      "pollInitialDelay": 20000,
+      "job_019aa3bb-7fde-7fbd-a743-f840a1bdfd80_completed": 97258,
+      "job_019aa3bb-8025-749e-b619-4baa1562e471_completed": 19416,
+      "job_019aa3bb-8047-7d48-b23d-fc72a7d79e29_completed": 22467,
+      "job_019aa3bb-806c-74c4-82e3-b7de44d04cbb_completed": 22708,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-3ebc-740e-96cc-825a2171d478.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_1.jpeg",
+          "ms": 1462
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-96c4-7b36-a7ff-290fd1ff60ad.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_2.jpeg",
+          "ms": 1442
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-ee8c-7065-9305-931924f342eb.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_3.jpeg",
+          "ms": 1584
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3be-4752-7dfe-920d-243dbc58c72a.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_4.jpeg",
+          "ms": 1257
+        }
+      ],
+      "runEnd": 1763683753741,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3bd-3ebc-740e-96cc-825a2171d478.jpeg",
+        "https://wasmall.imgnai.com/019aa3bd-96c4-7b36-a7ff-290fd1ff60ad.jpeg",
+        "https://wasmall.imgnai.com/019aa3bd-ee8c-7065-9305-931924f342eb.jpeg",
+        "https://wasmall.imgnai.com/019aa3be-4752-7dfe-920d-243dbc58c72a.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2
+  },
+  {
+    "file": "RealX_Classic_11-20-25_HighQuality_512x512_3.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683564613,
+      "sessionStart": 1763683564613,
+      "sessionEnd": 1763683564853,
+      "submitStart": 1763683565229,
+      "submitEnd": 1763683565676,
+      "pollInitialDelay": 20000,
+      "job_019aa3bb-7fde-7fbd-a743-f840a1bdfd80_completed": 97258,
+      "job_019aa3bb-8025-749e-b619-4baa1562e471_completed": 19416,
+      "job_019aa3bb-8047-7d48-b23d-fc72a7d79e29_completed": 22467,
+      "job_019aa3bb-806c-74c4-82e3-b7de44d04cbb_completed": 22708,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-3ebc-740e-96cc-825a2171d478.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_1.jpeg",
+          "ms": 1462
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-96c4-7b36-a7ff-290fd1ff60ad.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_2.jpeg",
+          "ms": 1442
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-ee8c-7065-9305-931924f342eb.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_3.jpeg",
+          "ms": 1584
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3be-4752-7dfe-920d-243dbc58c72a.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_4.jpeg",
+          "ms": 1257
+        }
+      ],
+      "runEnd": 1763683753741,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3bd-3ebc-740e-96cc-825a2171d478.jpeg",
+        "https://wasmall.imgnai.com/019aa3bd-96c4-7b36-a7ff-290fd1ff60ad.jpeg",
+        "https://wasmall.imgnai.com/019aa3bd-ee8c-7065-9305-931924f342eb.jpeg",
+        "https://wasmall.imgnai.com/019aa3be-4752-7dfe-920d-243dbc58c72a.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3
+  },
+  {
+    "file": "RealX_Classic_11-20-25_HighQuality_512x512_4.jpeg",
+    "prompt": "Hyperrealistic photo, beautiful girl model in beachwear, shot on iphone 14 pro max, long dark hair, cozy bright room :: Film grain, Kodak portra 800, f1. 8, golden hour",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763683564613,
+      "sessionStart": 1763683564613,
+      "sessionEnd": 1763683564853,
+      "submitStart": 1763683565229,
+      "submitEnd": 1763683565676,
+      "pollInitialDelay": 20000,
+      "job_019aa3bb-7fde-7fbd-a743-f840a1bdfd80_completed": 97258,
+      "job_019aa3bb-8025-749e-b619-4baa1562e471_completed": 19416,
+      "job_019aa3bb-8047-7d48-b23d-fc72a7d79e29_completed": 22467,
+      "job_019aa3bb-806c-74c4-82e3-b7de44d04cbb_completed": 22708,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-3ebc-740e-96cc-825a2171d478.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_1.jpeg",
+          "ms": 1462
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-96c4-7b36-a7ff-290fd1ff60ad.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_2.jpeg",
+          "ms": 1442
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3bd-ee8c-7065-9305-931924f342eb.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_3.jpeg",
+          "ms": 1584
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa3be-4752-7dfe-920d-243dbc58c72a.jpeg",
+          "file": "outputs/2025-11-21T00-06-04-613Z_4.jpeg",
+          "ms": 1257
+        }
+      ],
+      "runEnd": 1763683753741,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa3bd-3ebc-740e-96cc-825a2171d478.jpeg",
+        "https://wasmall.imgnai.com/019aa3bd-96c4-7b36-a7ff-290fd1ff60ad.jpeg",
+        "https://wasmall.imgnai.com/019aa3bd-ee8c-7065-9305-931924f342eb.jpeg",
+        "https://wasmall.imgnai.com/019aa3be-4752-7dfe-920d-243dbc58c72a.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4
+  },
+  {
+    "file": "RealX_Classic_11-20-25_HighQuality_512x512_1_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763690256050,
+      "sessionStart": 1763690256050,
+      "sessionEnd": 1763690256349,
+      "submitStart": 1763690256934,
+      "submitEnd": 1763690257400,
+      "pollInitialDelay": 20000,
+      "job_019aa421-9b48-756a-8ff6-5f9dac20018b_completed": 19797,
+      "job_019aa421-9b82-70c3-b576-c672c0aa4a2c_completed": 21913,
+      "job_019aa421-9bb9-71a3-9e6c-5fbad94e0c21_completed": 22477,
+      "job_019aa421-9be3-7d20-9eaa-5a498e93355f_completed": 22219,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-3748-7118-a3c1-a63e58af83eb.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_1.jpeg",
+          "ms": 1645
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-8d92-7a73-a6fc-ab42319f645e.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_2.jpeg",
+          "ms": 1304
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-e53c-7e20-b92a-19445640d5a6.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_3.jpeg",
+          "ms": 1189
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa423-3bad-7377-b461-e40f5154e853.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_4.jpeg",
+          "ms": 360
+        }
+      ],
+      "runEnd": 1763690368773,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa422-3748-7118-a3c1-a63e58af83eb.jpeg",
+        "https://wasmall.imgnai.com/019aa422-8d92-7a73-a6fc-ab42319f645e.jpeg",
+        "https://wasmall.imgnai.com/019aa422-e53c-7e20-b92a-19445640d5a6.jpeg",
+        "https://wasmall.imgnai.com/019aa423-3bad-7377-b461-e40f5154e853.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 1,
+    "storage": "normal"
+  },
+  {
+    "file": "RealX_Classic_11-20-25_HighQuality_512x512_2_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763690256050,
+      "sessionStart": 1763690256050,
+      "sessionEnd": 1763690256349,
+      "submitStart": 1763690256934,
+      "submitEnd": 1763690257400,
+      "pollInitialDelay": 20000,
+      "job_019aa421-9b48-756a-8ff6-5f9dac20018b_completed": 19797,
+      "job_019aa421-9b82-70c3-b576-c672c0aa4a2c_completed": 21913,
+      "job_019aa421-9bb9-71a3-9e6c-5fbad94e0c21_completed": 22477,
+      "job_019aa421-9be3-7d20-9eaa-5a498e93355f_completed": 22219,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-3748-7118-a3c1-a63e58af83eb.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_1.jpeg",
+          "ms": 1645
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-8d92-7a73-a6fc-ab42319f645e.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_2.jpeg",
+          "ms": 1304
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-e53c-7e20-b92a-19445640d5a6.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_3.jpeg",
+          "ms": 1189
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa423-3bad-7377-b461-e40f5154e853.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_4.jpeg",
+          "ms": 360
+        }
+      ],
+      "runEnd": 1763690368773,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa422-3748-7118-a3c1-a63e58af83eb.jpeg",
+        "https://wasmall.imgnai.com/019aa422-8d92-7a73-a6fc-ab42319f645e.jpeg",
+        "https://wasmall.imgnai.com/019aa422-e53c-7e20-b92a-19445640d5a6.jpeg",
+        "https://wasmall.imgnai.com/019aa423-3bad-7377-b461-e40f5154e853.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 2,
+    "storage": "normal"
+  },
+  {
+    "file": "RealX_Classic_11-20-25_HighQuality_512x512_3_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763690256050,
+      "sessionStart": 1763690256050,
+      "sessionEnd": 1763690256349,
+      "submitStart": 1763690256934,
+      "submitEnd": 1763690257400,
+      "pollInitialDelay": 20000,
+      "job_019aa421-9b48-756a-8ff6-5f9dac20018b_completed": 19797,
+      "job_019aa421-9b82-70c3-b576-c672c0aa4a2c_completed": 21913,
+      "job_019aa421-9bb9-71a3-9e6c-5fbad94e0c21_completed": 22477,
+      "job_019aa421-9be3-7d20-9eaa-5a498e93355f_completed": 22219,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-3748-7118-a3c1-a63e58af83eb.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_1.jpeg",
+          "ms": 1645
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-8d92-7a73-a6fc-ab42319f645e.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_2.jpeg",
+          "ms": 1304
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-e53c-7e20-b92a-19445640d5a6.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_3.jpeg",
+          "ms": 1189
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa423-3bad-7377-b461-e40f5154e853.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_4.jpeg",
+          "ms": 360
+        }
+      ],
+      "runEnd": 1763690368773,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa422-3748-7118-a3c1-a63e58af83eb.jpeg",
+        "https://wasmall.imgnai.com/019aa422-8d92-7a73-a6fc-ab42319f645e.jpeg",
+        "https://wasmall.imgnai.com/019aa422-e53c-7e20-b92a-19445640d5a6.jpeg",
+        "https://wasmall.imgnai.com/019aa423-3bad-7377-b461-e40f5154e853.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 3,
+    "storage": "normal"
+  },
+  {
+    "file": "RealX_Classic_11-20-25_HighQuality_512x512_4_1.jpeg",
+    "prompt": "Close-up shot of a woman wearing a black latex outfit and full-face helmet, standing in a white minimalistic room with a futuristic vibe lit with soft light --chaos 75 --ar 1:2 --profile e525pbl --stylize 750 --v 7",
+    "model": {
+      "name": "RealX Classic",
+      "id": "Ooga2"
+    },
+    "quality": "High Quality",
+    "size": "512x512",
+    "timings": {
+      "runStart": 1763690256050,
+      "sessionStart": 1763690256050,
+      "sessionEnd": 1763690256349,
+      "submitStart": 1763690256934,
+      "submitEnd": 1763690257400,
+      "pollInitialDelay": 20000,
+      "job_019aa421-9b48-756a-8ff6-5f9dac20018b_completed": 19797,
+      "job_019aa421-9b82-70c3-b576-c672c0aa4a2c_completed": 21913,
+      "job_019aa421-9bb9-71a3-9e6c-5fbad94e0c21_completed": 22477,
+      "job_019aa421-9be3-7d20-9eaa-5a498e93355f_completed": 22219,
+      "downloads": [
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-3748-7118-a3c1-a63e58af83eb.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_1.jpeg",
+          "ms": 1645
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-8d92-7a73-a6fc-ab42319f645e.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_2.jpeg",
+          "ms": 1304
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa422-e53c-7e20-b92a-19445640d5a6.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_3.jpeg",
+          "ms": 1189
+        },
+        {
+          "url": "https://wasmall.imgnai.com/019aa423-3bad-7377-b461-e40f5154e853.jpeg",
+          "file": "outputs/2025-11-21T01-57-36-050Z_4.jpeg",
+          "ms": 360
+        }
+      ],
+      "runEnd": 1763690368773,
+      "saved": 4,
+      "urls": [
+        "https://wasmall.imgnai.com/019aa422-3748-7118-a3c1-a63e58af83eb.jpeg",
+        "https://wasmall.imgnai.com/019aa422-8d92-7a73-a6fc-ab42319f645e.jpeg",
+        "https://wasmall.imgnai.com/019aa422-e53c-7e20-b92a-19445640d5a6.jpeg",
+        "https://wasmall.imgnai.com/019aa423-3bad-7377-b461-e40f5154e853.jpeg"
+      ]
+    },
+    "created_at": "11-20-25",
+    "index": 4,
+    "storage": "normal"
+  }
+]
