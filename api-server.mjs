@@ -39,6 +39,17 @@ async function cleanupBrowser() {
       console.error('Error closing browser:', e.message);
     }
   }
+  
+  // Clean up browser profile directory
+  try {
+    if (fs.existsSync(PROFILE_DIR)) {
+      console.log('Cleaning up browser profile directory...');
+      fs.rmSync(PROFILE_DIR, { recursive: true, force: true });
+      console.log('Browser profile cleaned');
+    }
+  } catch (e) {
+    console.error('Error cleaning profile directory:', e.message);
+  }
 }
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
