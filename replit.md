@@ -4,28 +4,30 @@
 This is an automated image generation tool that interfaces with imgnai.com to generate AI images using Puppeteer browser automation. The project uses headless browser automation to log into the imgnai service, submit image generation requests, and download the results.
 
 ## Project Structure
-- `reverse.mjs` - Main script for interactive image generation
+- `api-server.mjs` - REST API server for web frontend integration (runs on port 5000)
+- `reverse.mjs` - Main script for interactive CLI image generation
 - `test.mjs` - Batch processing script for generating images across all models
 - `package.json` - Node.js dependencies
+- `public/` - Web frontend with HTML interface
 - `bugScreenshot/` - Debug screenshots from browser automation
 - `outputs/` - Generated images output directory
 - `modelImage/` - Organized images by model with manifests
 - `imgnai-profile/` - Browser profile data for persistent sessions
 
 ## Current State
-The project is fully functional as a CLI tool in the Replit environment. It includes:
+The project is now running as a web API server on port 5000, accessible through the Replit webview. It includes:
+- REST API server with endpoints for authentication and image generation
+- Web frontend interface for easy interaction
 - Automated login with Cloudflare bypass
 - Session management with JWT tokens
 - Multiple AI model support (20+ models)
 - Quality and aspect ratio options
-- Batch image generation
+- Batch image generation (4 images per request)
 - Automatic image downloading
 - Debug screenshot capture for troubleshooting
+- Graceful shutdown with browser cleanup to prevent resource leaks
 
-**Important Note**: This is an interactive CLI application. The workflow will appear to be waiting because it expects user input through stdin. To use the tool:
-1. Stop the workflow if it's running
-2. Run `node reverse.mjs` in the Shell
-3. Interact with the prompts to generate images
+**How to Access**: The server is running on port 5000 and accessible through the Replit webview. You can also use the CLI tool by running `node reverse.mjs` in the Shell for interactive image generation.
 
 ## How to Use
 Run the main script with:
@@ -63,6 +65,15 @@ The script includes mappings for:
 - 5 aspect ratios (5:2, 16:9, 1:1, 4:5, 4:7)
 
 ## Recent Changes
+- 2025-11-25: Fixed API server to run properly in Replit
+  - Changed server port from 3000 to 5000 for Replit compatibility
+  - Added browser cleanup function to prevent resource leaks
+  - Implemented graceful shutdown handlers (SIGTERM, SIGINT, uncaughtException)
+  - Configured server to bind to 0.0.0.0 for Replit environment
+  - Updated workflow configuration to use webview on port 5000
+  - Fixed "fork: Resource temporarily unavailable" errors
+  - Server is now fully functional and accessible through webview
+
 - 2025-11-25: Initial Replit setup completed
   - Configured .gitignore for Node.js project
   - Created project documentation (README.md, replit.md)
@@ -77,8 +88,16 @@ The script includes mappings for:
 None specified yet.
 
 ## Project Architecture
-This is a Node.js CLI application using:
-- ES modules (.mjs files)
-- Headless browser automation with Puppeteer
-- Direct API interaction through browser context
-- File system operations for image storage and debugging
+This is a Node.js application with both API server and CLI modes:
+- **API Server Mode**: Express.js REST API running on port 5000
+  - Endpoints: /health, /models, /auth, /generate, /image/*
+  - Web frontend served from public/ directory
+  - Browser instance managed with proper cleanup on shutdown
+- **CLI Mode**: Interactive command-line interface (reverse.mjs)
+  - Direct user prompts for image generation
+  - Run manually in Shell when needed
+- **Technical Stack**:
+  - ES modules (.mjs files)
+  - Headless browser automation with Puppeteer
+  - Direct API interaction through browser context
+  - File system operations for image storage and debugging
