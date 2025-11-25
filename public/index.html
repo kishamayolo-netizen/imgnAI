@@ -351,9 +351,10 @@
                     data.urls.forEach(url => {
                         const div = document.createElement('div');
                         div.className = 'image-item';
+                        const proxyUrl = url.startsWith('/') ? url : url; // Use proxy URL from backend
                         div.innerHTML = `
-                            <img src="${url}" alt="Generated image" onerror="this.style.display='none'">
-                            <a href="${url}" target="_blank">Open</a>
+                            <img src="${proxyUrl}" alt="Generated image" onerror="this.style.display='none'">
+                            <a href="${proxyUrl}" target="_blank" download>Download</a>
                         `;
                         imagesContainer.appendChild(div);
                     });

@@ -362,14 +362,46 @@ async function autoGenerate(settings, context) {
     timings.runEnd = Date.now();
     console.log(`\nSUCCESS: ${saved}/${urls.length} images saved in ./outputs`);
     timings.saved = saved;
+    
+    // Convert full URLs to proxy paths (hide real imgnai URLs)
+    const proxyUrls = urls.map(url => {
+      const imageId = url.replace(IMAGE_BASE_URL, '');
+      return `/image/${imageId}`;
+    });
+    
     timings.urls = urls;
-    return { urls, timings, jwt };
+    return { urls: proxyUrls, timings, jwt };
 
   } catch (e) {
     console.error('Generation failed:', e.message);
     return { urls: [], timings: { error: e.message }, jwt };
   }
 }
+
+// Image proxy endpoint - hide real imgnai URLs from frontend
+app.get(/^\/image\/(.+)$/, async (req, res) => {
+  try {
+    const imageId = req.params[0];
+    const imageUrl = `${IMAGE_BASE_URL}${imageId}`;
+    console.log(`Proxying image: ${imageUrl}`);
+    
+    const response = await fetch(imageUrl);
+    if (!response.ok) {
+      return res.status(response.status).send('Image not found');
+    }
+    
+    const contentType = response.headers.get('content-type') || 'image/jpeg';
+    res.setHeader('Content-Type', contentType);
+    res.setHeader('Cache-Control', 'public, max-age=31536000');
+    
+    const buffer = await response.arrayBuffer();
+    res.send(Buffer.from(buffer));
+  } catch (e) {
+    console.error('Image proxy error:', e.message);
+    res.status(500).send('Failed to fetch image');
+  }
+});
+
 
 // Routes
 app.get('/health', (req, res) => {
