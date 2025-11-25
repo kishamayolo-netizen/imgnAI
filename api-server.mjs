@@ -415,9 +415,17 @@ app.get('/models', (req, res) => {
 app.post('/auth', async (req, res) => {
   try {
     console.log('Authenticating...');
-    authContext = await setupAuthenticatedPage();
+    
+    // Set a timeout for authentication (3 minutes max)
+    const authPromise = setupAuthenticatedPage();
+    const timeoutPromise = new Promise((_, reject) => 
+      setTimeout(() => reject(new Error('Authentication timeout after 180 seconds')), 180000)
+    );
+    
+    authContext = await Promise.race([authPromise, timeoutPromise]);
     res.json({ success: true, message: 'Authenticated successfully' });
   } catch (e) {
+    console.error('Auth error:', e.message);
     res.status(500).json({ success: false, error: e.message });
   }
 });
