@@ -6,7 +6,7 @@ import { Buffer } from 'buffer';
 import { connect } from 'puppeteer-real-browser';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 app.use(express.json());
 app.use(express.static('public'));
@@ -27,6 +27,19 @@ const API_MAPPINGS = {
 };
 
 let authContext = null;
+
+async function cleanupBrowser() {
+  if (authContext?.browser) {
+    try {
+      console.log('Closing browser...');
+      await authContext.browser.close();
+      authContext = null;
+      console.log('Browser closed successfully');
+    } catch (e) {
+      console.error('Error closing browser:', e.message);
+    }
+  }
+}
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
 function getUniquePrefix() { return new Date().toISOString().replace(/[:.]/g, '-'); }
@@ -471,7 +484,7 @@ app.post('/generate', async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, '0.0.0.0', () => {
   console.log(`\n╔══════════════════════════════════════════════════════════╗`);
   console.log(`║     IMGNAI API Server running on port ${PORT}              ║`);
   console.log(`╚══════════════════════════════════════════════════════════╝\n`);
@@ -485,4 +498,28 @@ app.listen(PORT, () => {
   console.log(`   curl -X POST http://localhost:${PORT}/generate \\`);
   console.log(`     -H "Content-Type: application/json" \\`);
   console.log(`     -d '{"prompt":"a cat wizard","modelId":12,"qualityId":2,"ratioId":3}'\n`);
+});
+
+process.on('SIGTERM', async () => {
+  console.log('SIGTERM received, shutting down gracefully...');
+  await cleanupBrowser();
+  server.close(() => {
+    console.log('Server closed');
+    process.exit(0);
+  });
+});
+
+process.on('SIGINT', async () => {
+  console.log('\nSIGINT received, shutting down gracefully...');
+  await cleanupBrowser();
+  server.close(() => {
+    console.log('Server closed');
+    process.exit(0);
+  });
+});
+
+process.on('uncaughtException', async (err) => {
+  console.error('Uncaught exception:', err);
+  await cleanupBrowser();
+  process.exit(1);
 });
