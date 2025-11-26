@@ -216,9 +216,112 @@
         .models-info strong {
             color: #333;
         }
+
+        .image-buttons {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            display: flex;
+            gap: 6px;
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+
+        .image-item:hover .image-buttons {
+            opacity: 1;
+        }
+
+        .image-btn {
+            background: rgba(0, 0, 0, 0.6);
+            color: white;
+            padding: 6px 10px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 12px;
+            cursor: pointer;
+            border: none;
+            transition: background 0.2s;
+        }
+
+        .image-btn:hover {
+            background: rgba(0, 0, 0, 0.8);
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            animation: fadeIn 0.3s;
+        }
+
+        .modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-content {
+            position: relative;
+            max-width: 90vw;
+            max-height: 90vh;
+            background: white;
+            border-radius: 8px;
+            overflow: auto;
+            animation: slideIn 0.3s;
+        }
+
+        .modal-image {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+            border: none;
+            font-size: 28px;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
+        }
+
+        .modal-close:hover {
+            background: rgba(0, 0, 0, 0.9);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideIn {
+            from { transform: scale(0.9); opacity: 0; }
+            to { transform: scale(1); opacity: 1; }
+        }
     </style>
 </head>
 <body>
+    <div id="imageModal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <img id="modalImage" class="modal-image" alt="Full size image">
+        </div>
+    </div>
+
     <div class="container">
         <h1>🎨 IMGNAI Image Generator</h1>
         <p class="subtitle">Generate stunning AI images with our API</p>
@@ -297,6 +400,9 @@
         const imagesContainer = document.getElementById('imagesContainer');
         const timingDiv = document.getElementById('timing');
         const generateBtn = document.getElementById('generateBtn');
+        const imageModal = document.getElementById('imageModal');
+        const modalImage = document.getElementById('modalImage');
+        const modalClose = document.querySelector('.modal-close');
 
         // Aspect ratio mappings
         const aspectRatios = {
@@ -306,6 +412,35 @@
             4: 0.8,      // 4:5
             5: 0.571     // 4:7
         };
+
+        // Modal functions
+        function openImageModal(url) {
+            modalImage.src = url;
+            imageModal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeImageModal() {
+            imageModal.classList.remove('active');
+            document.body.style.overflow = 'auto';
+        }
+
+        // Modal close button event listener
+        modalClose.addEventListener('click', closeImageModal);
+
+        // Close modal when clicking on the dark background
+        imageModal.addEventListener('click', (e) => {
+            if (e.target === imageModal) {
+                closeImageModal();
+            }
+        });
+
+        // Close modal on Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeImageModal();
+            }
+        });
 
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
@@ -355,9 +490,21 @@
                         const proxyUrl = url.startsWith('/') ? url : url; // Use proxy URL from backend
                         div.innerHTML = `
                             <img src="${proxyUrl}" alt="Generated image" onerror="this.style.display='none'">
-                            <a href="${proxyUrl}" target="_blank" download>Download</a>
+                            <div class="image-buttons">
+                                <button class="image-btn view-btn" data-url="${proxyUrl}">View</button>
+                                <a href="${proxyUrl}" class="image-btn" target="_blank" download>Download</a>
+                            </div>
                         `;
                         imagesContainer.appendChild(div);
+                    });
+
+                    // Add event listeners for view buttons
+                    document.querySelectorAll('.view-btn').forEach(btn => {
+                        btn.addEventListener('click', (e) => {
+                            e.preventDefault();
+                            const url = btn.getAttribute('data-url');
+                            openImageModal(url);
+                        });
                     });
 
                     // Display timing info
