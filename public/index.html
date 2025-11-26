@@ -257,6 +257,10 @@
             border-radius: 8px;
             overflow: auto;
             animation: slideIn 0.3s;
+            aspect-ratio: var(--modal-aspect-ratio, 1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         .modal-image {
@@ -399,8 +403,12 @@
         };
 
         // Modal functions
-        function openImageModal(url) {
+        function openImageModal(url, aspectRatio) {
             modalImage.src = url;
+            const modalContent = document.querySelector('.modal-content');
+            if (aspectRatio) {
+                modalContent.style.setProperty('--modal-aspect-ratio', aspectRatio);
+            }
             imageModal.classList.add('active');
             document.body.style.overflow = 'hidden';
         }
@@ -488,7 +496,10 @@
                         btn.addEventListener('click', (e) => {
                             e.preventDefault();
                             const url = btn.getAttribute('data-url');
-                            openImageModal(url);
+                            const imageItem = btn.closest('.image-item');
+                            const computedStyle = window.getComputedStyle(imageItem);
+                            const aspectRatio = computedStyle.getPropertyValue('--aspect-ratio');
+                            openImageModal(url, aspectRatio);
                         });
                     });
 
