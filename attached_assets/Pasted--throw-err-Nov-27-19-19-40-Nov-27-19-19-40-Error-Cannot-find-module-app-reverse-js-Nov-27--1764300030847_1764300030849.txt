@@ -1,0 +1,800 @@
+  throw err;
+Nov 27 19:19:40
+  ^
+Nov 27 19:19:40
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:40
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:40
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:40
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:40
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:40
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:40
+  requireStack: []
+Nov 27 19:19:40
+}
+Nov 27 19:19:40
+Node.js v20.19.6
+Nov 27 19:19:40
++ node reverse.js
+Nov 27 19:19:40
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:40
+  throw err;
+Nov 27 19:19:40
+  ^
+Nov 27 19:19:40
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:40
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:40
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:40
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:40
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:40
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:40
+  requireStack: []
+Nov 27 19:19:40
+}
+Nov 27 19:19:40
+Node.js v20.19.6
+Nov 27 19:19:40
+Server SHUTDOWN: failure
+Nov 27 19:19:42
++ node reverse.js
+Nov 27 19:19:42
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:42
+  throw err;
+Nov 27 19:19:42
+  ^
+Nov 27 19:19:42
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:42
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:42
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:42
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:42
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:42
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:42
+  requireStack: []
+Nov 27 19:19:42
+}
+Nov 27 19:19:42
+Node.js v20.19.6
+Nov 27 19:19:42
++ node reverse.js
+Nov 27 19:19:42
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:42
+  throw err;
+Nov 27 19:19:42
+  ^
+Nov 27 19:19:42
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:42
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:42
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:42
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:42
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:42
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:42
+  requireStack: []
+Nov 27 19:19:42
+}
+Nov 27 19:19:42
+Node.js v20.19.6
+Nov 27 19:19:42
++ node reverse.js
+Nov 27 19:19:42
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:42
+  throw err;
+Nov 27 19:19:42
+  ^
+Nov 27 19:19:42
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:42
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:42
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:42
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:42
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:42
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:42
+  requireStack: []
+Nov 27 19:19:42
+}
+Nov 27 19:19:42
+Node.js v20.19.6
+Nov 27 19:19:42
+Server SHUTDOWN: failure
+Nov 27 19:19:42
+Function exited unexpectedly.
+Nov 27 19:19:42
+Check your function logs for details, or see https://docs.leapcell.io/service/troubleshooting for environment info.
+Nov 27 19:19:42
+RequestId: 464455ec-a5b9-4c24-8822-290baa9eb342 Error: Runtime exited with error: exit status 1
+Nov 27 19:19:44
++ node reverse.js
+Nov 27 19:19:44
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:44
+  throw err;
+Nov 27 19:19:44
+  ^
+Nov 27 19:19:44
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:44
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:44
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:44
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:44
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:44
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:44
+  requireStack: []
+Nov 27 19:19:44
+}
+Nov 27 19:19:44
+Node.js v20.19.6
+Nov 27 19:19:44
++ node reverse.js
+Nov 27 19:19:44
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:44
+  throw err;
+Nov 27 19:19:44
+  ^
+Nov 27 19:19:44
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:44
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:44
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:44
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:44
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:44
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:44
+  requireStack: []
+Nov 27 19:19:44
+}
+Nov 27 19:19:44
+Node.js v20.19.6
+Nov 27 19:19:44
+Server SHUTDOWN: failure
+Nov 27 19:19:46
++ node reverse.js
+Nov 27 19:19:46
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:46
+  throw err;
+Nov 27 19:19:46
+  ^
+Nov 27 19:19:46
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:46
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:46
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:46
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:46
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:46
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:46
+  requireStack: []
+Nov 27 19:19:46
+}
+Nov 27 19:19:46
+Node.js v20.19.6
+Nov 27 19:19:46
++ node reverse.js
+Nov 27 19:19:46
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:46
+  throw err;
+Nov 27 19:19:46
+  ^
+Nov 27 19:19:46
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:46
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:46
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:46
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:46
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:46
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:46
+  requireStack: []
+Nov 27 19:19:46
+}
+Nov 27 19:19:46
+Node.js v20.19.6
+Nov 27 19:19:46
++ node reverse.js
+Nov 27 19:19:46
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:46
+  throw err;
+Nov 27 19:19:46
+  ^
+Nov 27 19:19:46
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:46
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:46
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:46
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:46
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:46
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:46
+  requireStack: []
+Nov 27 19:19:46
+}
+Nov 27 19:19:46
+Node.js v20.19.6
+Nov 27 19:19:46
++ node reverse.js
+Nov 27 19:19:46
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:46
+  throw err;
+Nov 27 19:19:46
+  ^
+Nov 27 19:19:46
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:46
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:46
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:46
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:46
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:46
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:46
+  requireStack: []
+Nov 27 19:19:46
+}
+Nov 27 19:19:46
+Node.js v20.19.6
+Nov 27 19:19:46
+Server SHUTDOWN: failure
+Nov 27 19:19:44
+Function exited unexpectedly.
+Nov 27 19:19:44
+Check your function logs for details, or see https://docs.leapcell.io/service/troubleshooting for environment info.
+Nov 27 19:19:44
+RequestId: 672ee7f8-e6bf-4e68-9549-926f4662f1c7 Error: Runtime exited with error: exit status 1
+Nov 27 19:19:46
+Function exited unexpectedly.
+Nov 27 19:19:46
+Check your function logs for details, or see https://docs.leapcell.io/service/troubleshooting for environment info.
+Nov 27 19:19:46
+RequestId: 120127e7-58d4-4c15-adf5-e4bb2d1e6399 Error: Runtime exited with error: exit status 1
+Nov 27 19:19:56
++ node reverse.js
+Nov 27 19:19:56
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:56
+  throw err;
+Nov 27 19:19:56
+  ^
+Nov 27 19:19:56
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:56
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:56
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:56
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:56
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:56
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:56
+  requireStack: []
+Nov 27 19:19:56
+}
+Nov 27 19:19:56
+Node.js v20.19.6
+Nov 27 19:19:56
++ node reverse.js
+Nov 27 19:19:56
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:56
+  throw err;
+Nov 27 19:19:56
+  ^
+Nov 27 19:19:56
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:56
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:56
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:56
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:56
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:56
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:56
+  requireStack: []
+Nov 27 19:19:56
+}
+Nov 27 19:19:56
+Node.js v20.19.6
+Nov 27 19:19:56
++ node reverse.js
+Nov 27 19:19:56
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:56
+  throw err;
+Nov 27 19:19:56
+  ^
+Nov 27 19:19:56
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:56
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:56
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:56
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:56
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:56
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:56
+  requireStack: []
+Nov 27 19:19:56
+}
+Nov 27 19:19:56
+Node.js v20.19.6
+Nov 27 19:19:56
++ node reverse.js
+Nov 27 19:19:56
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:56
+  throw err;
+Nov 27 19:19:56
+  ^
+Nov 27 19:19:56
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:56
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:56
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:56
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:56
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:56
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:56
+  requireStack: []
+Nov 27 19:19:56
+}
+Nov 27 19:19:56
+Node.js v20.19.6
+Nov 27 19:19:56
++ node reverse.js
+Nov 27 19:19:56
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:56
+  throw err;
+Nov 27 19:19:56
+  ^
+Nov 27 19:19:56
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:56
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:56
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:56
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:56
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:56
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:56
+  requireStack: []
+Nov 27 19:19:56
+}
+Nov 27 19:19:56
+Node.js v20.19.6
+Nov 27 19:19:56
+Server SHUTDOWN: failure
+Nov 27 19:19:56
+Function exited unexpectedly.
+Nov 27 19:19:56
+Check your function logs for details, or see https://docs.leapcell.io/service/troubleshooting for environment info.
+Nov 27 19:19:56
+RequestId: 0ef08cb0-20f3-4322-b115-108a531918da Error: Runtime exited with error: exit status 1
+Nov 27 19:19:58
++ node reverse.js
+Nov 27 19:19:58
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:58
+  throw err;
+Nov 27 19:19:58
+  ^
+Nov 27 19:19:58
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:58
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:58
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:58
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:58
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:58
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:58
+  requireStack: []
+Nov 27 19:19:58
+}
+Nov 27 19:19:58
+Node.js v20.19.6
+Nov 27 19:19:58
++ node reverse.js
+Nov 27 19:19:58
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:58
+  throw err;
+Nov 27 19:19:58
+  ^
+Nov 27 19:19:58
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:58
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:58
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:58
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:58
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:58
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:58
+  requireStack: []
+Nov 27 19:19:58
+}
+Nov 27 19:19:58
+Node.js v20.19.6
+Nov 27 19:19:58
++ node reverse.js
+Nov 27 19:19:58
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:58
+  throw err;
+Nov 27 19:19:58
+  ^
+Nov 27 19:19:58
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:58
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:58
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:58
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:58
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:58
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:58
+  requireStack: []
+Nov 27 19:19:58
+}
+Nov 27 19:19:58
+Node.js v20.19.6
+Nov 27 19:19:58
++ node reverse.js
+Nov 27 19:19:58
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:58
+  throw err;
+Nov 27 19:19:58
+  ^
+Nov 27 19:19:58
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:58
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:58
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:58
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:58
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:58
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:58
+  requireStack: []
+Nov 27 19:19:58
+}
+Nov 27 19:19:58
+Node.js v20.19.6
+Nov 27 19:19:58
++ node reverse.js
+Nov 27 19:19:58
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:58
+  throw err;
+Nov 27 19:19:58
+  ^
+Nov 27 19:19:58
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:58
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:58
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:58
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:58
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:58
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:58
+  requireStack: []
+Nov 27 19:19:58
+}
+Nov 27 19:19:58
+Node.js v20.19.6
+Nov 27 19:19:58
++ node reverse.js
+Nov 27 19:19:58
+node:internal/modules/cjs/loader:1210
+Nov 27 19:19:58
+  throw err;
+Nov 27 19:19:58
+  ^
+Nov 27 19:19:58
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:19:58
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:19:58
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:19:58
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:19:58
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:19:58
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:19:58
+  requireStack: []
+Nov 27 19:19:58
+}
+Nov 27 19:19:58
+Node.js v20.19.6
+Nov 27 19:19:58
+Server SHUTDOWN: failure
+Nov 27 19:19:58
+Function exited unexpectedly.
+Nov 27 19:19:58
+Check your function logs for details, or see https://docs.leapcell.io/service/troubleshooting for environment info.
+Nov 27 19:19:58
+RequestId: 7653627e-e49e-43ff-8bc3-b498fe0db474 Error: Runtime exited with error: exit status 1
+Nov 27 19:20:10
++ node reverse.js
+Nov 27 19:20:10
+node:internal/modules/cjs/loader:1210
+Nov 27 19:20:10
+  throw err;
+Nov 27 19:20:10
+  ^
+Nov 27 19:20:10
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:20:10
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:20:10
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:20:10
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:20:10
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:20:10
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:20:10
+  requireStack: []
+Nov 27 19:20:10
+}
+Nov 27 19:20:10
+Node.js v20.19.6
+Nov 27 19:20:10
++ node reverse.js
+Nov 27 19:20:10
+node:internal/modules/cjs/loader:1210
+Nov 27 19:20:10
+  throw err;
+Nov 27 19:20:10
+  ^
+Nov 27 19:20:10
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:20:10
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:20:10
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:20:10
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:20:10
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:20:10
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:20:10
+  requireStack: []
+Nov 27 19:20:10
+}
+Nov 27 19:20:10
+Node.js v20.19.6
+Nov 27 19:20:10
++ node reverse.js
+Nov 27 19:20:10
+node:internal/modules/cjs/loader:1210
+Nov 27 19:20:10
+  throw err;
+Nov 27 19:20:10
+  ^
+Nov 27 19:20:10
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:20:10
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:20:10
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:20:10
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:20:10
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:20:10
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:20:10
+  requireStack: []
+Nov 27 19:20:10
+}
+Nov 27 19:20:10
+Node.js v20.19.6
+Nov 27 19:20:10
++ node reverse.js
+Nov 27 19:20:10
+node:internal/modules/cjs/loader:1210
+Nov 27 19:20:10
+  throw err;
+Nov 27 19:20:10
+  ^
+Nov 27 19:20:10
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:20:10
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:20:10
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:20:10
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:20:10
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:20:10
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:20:10
+  requireStack: []
+Nov 27 19:20:10
+}
+Nov 27 19:20:10
+Node.js v20.19.6
+Nov 27 19:20:10
++ node reverse.js
+Nov 27 19:20:10
+node:internal/modules/cjs/loader:1210
+Nov 27 19:20:10
+  throw err;
+Nov 27 19:20:10
+  ^
+Nov 27 19:20:10
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:20:10
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:20:10
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:20:10
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:20:10
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:20:10
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:20:10
+  requireStack: []
+Nov 27 19:20:10
+}
+Nov 27 19:20:10
+Node.js v20.19.6
+Nov 27 19:20:10
++ node reverse.js
+Nov 27 19:20:10
+node:internal/modules/cjs/loader:1210
+Nov 27 19:20:10
+  throw err;
+Nov 27 19:20:10
+  ^
+Nov 27 19:20:10
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:20:10
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:20:10
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:20:10
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:20:10
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:20:10
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:20:10
+  requireStack: []
+Nov 27 19:20:10
+}
+Nov 27 19:20:10
+Node.js v20.19.6
+Nov 27 19:20:10
++ node reverse.js
+Nov 27 19:20:10
+node:internal/modules/cjs/loader:1210
+Nov 27 19:20:10
+  throw err;
+Nov 27 19:20:10
+  ^
+Nov 27 19:20:10
+Error: Cannot find module '/app/reverse.js'
+Nov 27 19:20:10
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+Nov 27 19:20:10
+    at Module._load (node:internal/modules/cjs/loader:1038:27)
+Nov 27 19:20:10
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+Nov 27 19:20:10
+    at node:internal/main/run_main_module:28:49 {
+Nov 27 19:20:10
+  code: 'MODULE_NOT_FOUND',
+Nov 27 19:20:10
+  requireStack: []
+Nov 27 19:20:10
+}
+Nov 27 19:20:10
+Node.js v20.19.6
+Nov 27 19:20:10
+Server SHUTDOWN: failure
+Nov 27 19:20:10
+Function exited unexpectedly.
+Nov 27 19:20:10
+Check your function logs for details, or see https://docs.leapcell.io/service/troubleshooting for environment info.
+Nov 27 19:20:10
+RequestId: 707c8cf6-fd12-447c-8f90-b76fc9c4575c Error: Runtime exited with error: exit status 1
+If you encounter any issues, please refer to
