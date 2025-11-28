@@ -1,0 +1,121 @@
+
+⚠ Startup authentication failed: The CHROME_PATH environment variable must be set to a Chrome/Chromium executable no older than Chrome stable.
+Nov 27 19:25:36
+⚠ You can still authenticate manually by calling /auth
+Nov 27 19:25:36
+╔══════════════════════════════════════════════════════════╗
+Nov 27 19:25:36
+║     IMGNAI API Server running on port 3000              ║
+Nov 27 19:25:36
+╚══════════════════════════════════════════════════════════╝
+Nov 27 19:25:36
+📍 Base URL: http://localhost:3000
+Nov 27 19:25:36
+🔗 Endpoints:
+Nov 27 19:25:36
+   GET  /health         - Check server status
+Nov 27 19:25:36
+   GET  /models         - List available models, qualities, ratios
+Nov 27 19:25:36
+   POST /generate       - Generate images
+Nov 27 19:25:36
+📝 Example request:
+Nov 27 19:25:36
+   curl -X POST http://localhost:3000/generate \
+Nov 27 19:25:36
+     -H "Content-Type: application/json" \
+Nov 27 19:25:36
+     -d '{"prompt":"a cat wizard","modelId":12,"qualityId":2,"ratioId":3}'
+Nov 27 19:25:36
+🔐 Authenticating on startup...
+Nov 27 19:25:36
+Launching browser...
+Nov 27 19:25:36
+You are running on a Linux platform but do not have xvfb installed. The browser can be captured. Please install it with the following command
+Nov 27 19:25:36
+sudo apt-get install xvfb
+Nov 27 19:25:36
+Could not start Xvfb.
+Nov 27 19:25:36
+⚠ Startup authentication failed: The CHROME_PATH environment variable must be set to a Chrome/Chromium executable no older than Chrome stable.
+Nov 27 19:25:36
+⚠ You can still authenticate manually by calling /auth
+Nov 27 19:25:36
+╔══════════════════════════════════════════════════════════╗
+Nov 27 19:25:36
+║     IMGNAI API Server running on port 3000              ║
+Nov 27 19:25:36
+╚══════════════════════════════════════════════════════════╝
+Nov 27 19:25:36
+📍 Base URL: http://localhost:3000
+Nov 27 19:25:36
+🔗 Endpoints:
+Nov 27 19:25:36
+   GET  /health         - Check server status
+Nov 27 19:25:36
+   GET  /models         - List available models, qualities, ratios
+Nov 27 19:25:36
+   POST /generate       - Generate images
+Nov 27 19:25:36
+📝 Example request:
+Nov 27 19:25:36
+   curl -X POST http://localhost:3000/generate \
+Nov 27 19:25:36
+     -H "Content-Type: application/json" \
+Nov 27 19:25:36
+     -d '{"prompt":"a cat wizard","modelId":12,"qualityId":2,"ratioId":3}'
+Nov 27 19:25:36
+🔐 Authenticating on startup...
+Nov 27 19:25:36
+Launching browser...
+Nov 27 19:25:36
+You are running on a Linux platform but do not have xvfb installed. The browser can be captured. Please install it with the following command
+Nov 27 19:25:36
+sudo apt-get install xvfb
+Nov 27 19:25:36
+Could not start Xvfb.
+Nov 27 19:25:36
+⚠ Startup authentication failed: The CHROME_PATH environment variable must be set to a Chrome/Chromium executable no older than Chrome stable.
+Nov 27 19:25:36
+⚠ You can still authenticate manually by calling /auth
+Nov 27 19:25:58
++ node api-server.mjs
+Nov 27 19:25:58
+╔══════════════════════════════════════════════════════════╗
+Nov 27 19:25:58
+║     IMGNAI API Server running on port 3000              ║
+Nov 27 19:25:58
+╚══════════════════════════════════════════════════════════╝
+Nov 27 19:25:58
+📍 Base URL: http://localhost:3000
+Nov 27 19:25:58
+🔗 Endpoints:
+Nov 27 19:25:58
+   GET  /health         - Check server status
+Nov 27 19:25:58
+   GET  /models         - List available models, qualities, ratios
+Nov 27 19:25:58
+   POST /generate       - Generate images
+Nov 27 19:25:58
+📝 Example request:
+Nov 27 19:25:58
+   curl -X POST http://localhost:3000/generate \
+Nov 27 19:25:58
+     -H "Content-Type: application/json" \
+Nov 27 19:25:58
+     -d '{"prompt":"a cat wizard","modelId":12,"qualityId":2,"ratioId":3}'
+Nov 27 19:25:58
+🔐 Authenticating on startup...
+Nov 27 19:25:58
+Launching browser...
+Nov 27 19:25:58
+You are running on a Linux platform but do not have xvfb installed. The browser can be captured. Please install it with the following command
+Nov 27 19:25:58
+sudo apt-get install xvfb
+Nov 27 19:25:58
+Could not start Xvfb.
+Nov 27 19:25:58
+⚠ Startup authentication failed: The CHROME_PATH environment variable must be set to a Chrome/Chromium executable no older than Chrome stable.
+Nov 27 19:25:58
+⚠ You can still authenticate manually by calling /auth
+If you encounter any issues, please refer to our
